@@ -1,0 +1,250 @@
+{
+  "cars.json": {
+    "columns": {
+      "Name": "text",
+      "Miles_per_Gallon": "number decimal",
+      "Cylinders": "number integer discrete",
+      "Displacement": "number decimal",
+      "Horsepower": "number integer",
+      "Weight_in_lbs": "number integer",
+      "Acceleration": "number decimal",
+      "Year": "date year",
+      "Origin": "category"
+    },
+    "kpis": [
+      "count:*",
+      "sum:Weight_in_lbs",
+      "avg:Displacement",
+      "avg:Acceleration"
+    ]
+  },
+  "co2-mauna-loa.csv": {
+    "columns": {
+      "Date": "date month",
+      "CO2": "number decimal",
+      "adjusted CO2": "number decimal"
+    },
+    "kpis": [
+      "count:*",
+      "avg:CO2",
+      "avg:adjusted CO2"
+    ]
+  },
+  "coffee-chain-sales.csv": {
+    "columns": {
+      "Order ID": "text id",
+      "Order Date": "date datetime",
+      "Store": "category",
+      "State": "category",
+      "Product": "category",
+      "Category": "category",
+      "Qty": "number integer discrete",
+      "Unit Price": "number currency",
+      "Unit Cost": "number currency",
+      "Channel": "category",
+      "Promo": "boolean",
+      "Rating": "number integer discrete"
+    },
+    "kpis": [
+      "count:*",
+      "sum:Unit Cost",
+      "avg:Unit Price"
+    ]
+  },
+  "gapminder.json": {
+    "columns": {
+      "year": "date year",
+      "country": "category",
+      "cluster": "number integer discrete",
+      "pop": "number integer",
+      "life_expect": "number decimal",
+      "fertility": "number decimal"
+    },
+    "kpis": [
+      "count:*",
+      "sum:pop (latest)",
+      "avg:life_expect",
+      "avg:fertility"
+    ]
+  },
+  "movies.json": {
+    "columns": {
+      "Title": "text",
+      "US Gross": "number integer",
+      "Worldwide Gross": "number integer",
+      "US DVD Sales": "number integer",
+      "Production Budget": "number integer",
+      "Release Date": "date day",
+      "MPAA Rating": "category",
+      "Running Time min": "number integer",
+      "Distributor": "category",
+      "Source": "category",
+      "Major Genre": "category",
+      "Creative Type": "category",
+      "Director": "category",
+      "Rotten Tomatoes Rating": "number integer",
+      "IMDB Rating": "number decimal",
+      "IMDB Votes": "number integer"
+    },
+    "kpis": [
+      "count:*",
+      "sum:Production Budget",
+      "sum:US Gross",
+      "sum:Worldwide Gross"
+    ]
+  },
+  "online-store-events.csv": {
+    "columns": {
+      "Event Date": "date day",
+      "Customer ID": "text",
+      "Stage": "category",
+      "Channel": "category",
+      "Country": "category",
+      "Device": "category",
+      "Revenue": "number decimal"
+    },
+    "kpis": [
+      "count:*",
+      "sum:Revenue"
+    ]
+  },
+  "penguins.csv": {
+    "columns": {
+      "species": "category",
+      "island": "category",
+      "bill_length_mm": "number decimal",
+      "bill_depth_mm": "number decimal",
+      "flipper_length_mm": "number integer",
+      "body_mass_g": "number integer",
+      "sex": "category",
+      "year": "date year"
+    },
+    "kpis": [
+      "count:*",
+      "avg:bill_length_mm",
+      "avg:bill_depth_mm",
+      "avg:flipper_length_mm"
+    ]
+  },
+  "seattle-vs-new-york-weather.csv": {
+    "columns": {
+      "location": "category",
+      "date": "date day",
+      "precipitation": "number decimal",
+      "temp_max": "number decimal",
+      "temp_min": "number decimal",
+      "wind": "number decimal",
+      "weather": "category"
+    },
+    "kpis": [
+      "count:*",
+      "sum:precipitation",
+      "avg:temp_max",
+      "avg:temp_min"
+    ]
+  },
+  "seattle-weather.csv": {
+    "columns": {
+      "date": "date day",
+      "precipitation": "number decimal",
+      "temp_max": "number decimal",
+      "temp_min": "number decimal",
+      "wind": "number decimal",
+      "weather": "category"
+    },
+    "kpis": [
+      "count:*",
+      "sum:precipitation",
+      "avg:temp_max",
+      "avg:temp_min"
+    ]
+  },
+  "tech-stock-prices.xls": {
+    "columns": {
+      "Symbol": "category",
+      "Date": "date month",
+      "Price": "number decimal"
+    },
+    "kpis": [
+      "count:*",
+      "avg:Price"
+    ]
+  },
+  "us-airports.csv": {
+    "columns": {
+      "iata": "text",
+      "name": "text id",
+      "city": "text",
+      "state": "category",
+      "country": "category",
+      "latitude": "number decimal",
+      "longitude": "number decimal"
+    },
+    "kpis": [
+      "count:*"
+    ]
+  },
+  "us-employment-by-sector.csv": {
+    "columns": {
+      "month": "date month",
+      "nonfarm": "number integer",
+      "private": "number integer",
+      "goods_producing": "number integer",
+      "service_providing": "number integer",
+      "private_service_providing": "number integer",
+      "mining_and_logging": "number integer",
+      "construction": "number integer",
+      "manufacturing": "number integer",
+      "durable_goods": "number integer",
+      "nondurable_goods": "number integer",
+      "trade_transportation_utilties": "number integer",
+      "wholesale_trade": "number decimal",
+      "retail_trade": "number decimal",
+      "transportation_and_warehousing": "number decimal",
+      "utilities": "number decimal",
+      "information": "number integer",
+      "financial_activities": "number integer",
+      "professional_and_business_services": "number integer",
+      "education_and_health_services": "number integer",
+      "leisure_and_hospitality": "number integer",
+      "other_services": "number integer",
+      "government": "number integer",
+      "nonfarm_change": "number integer"
+    },
+    "kpis": [
+      "count:*",
+      "avg:nonfarm",
+      "avg:private",
+      "avg:goods_producing"
+    ]
+  },
+  "us-flights-2001.json": {
+    "columns": {
+      "date": "date datetime",
+      "delay": "number integer",
+      "distance": "number integer",
+      "origin": "category",
+      "destination": "category"
+    },
+    "kpis": [
+      "count:*",
+      "sum:distance",
+      "avg:delay"
+    ]
+  },
+  "us-unemployment-by-industry.xlsx": {
+    "columns": {
+      "Date": "date month",
+      "Industry": "category",
+      "Year": "date year",
+      "Month": "number integer discrete",
+      "Unemployed (thousands)": "number integer",
+      "Unemployment Rate (%)": "number decimal"
+    },
+    "kpis": [
+      "count:*",
+      "sum:Unemployed (thousands)",
+      "avg:Unemployment Rate (%)"
+    ]
+  }
+}

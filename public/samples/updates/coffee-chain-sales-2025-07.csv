@@ -1,0 +1,1144 @@
+Order ID,Order Date,Store,State,Product,Category,Qty,Unit Price,Unit Cost,Channel,Promo,Rating
+C-018619,2025-07-01 15:48,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-018620,2025-07-01 07:32,Seattle - Pike St,WA,Blueberry Muffin,Bakery,4,$3.50,$1.15,In-store,No,
+C-018621,2025-07-01 16:53,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018622,2025-07-01 07:11,Seattle - Pike St,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-018623,2025-07-01 07:50,Seattle - Pike St,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018624,2025-07-01 16:00,Seattle - Pike St,WA,Iced Latte,Iced coffee,2,$6.25,$1.15,Delivery,No,3
+C-018625,2025-07-01 16:18,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-018626,2025-07-01 09:52,Seattle - Capitol Hill,WA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-018627,2025-07-01 08:12,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-018628,2025-07-01 18:20,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018629,2025-07-01 09:30,Portland - Pearl,OR,Cappuccino,Hot coffee,3,$4.50,$0.95,In-store,No,
+C-018630,2025-07-01 10:54,Portland - Pearl,OR,Iced Latte,Iced coffee,2,$6.25,$1.15,Delivery,No,
+C-018631,2025-07-01 13:34,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018632,2025-07-01 16:49,Portland - Pearl,OR,Croissant,Bakery,2,$3.75,$1.35,Mobile,No,5
+C-018633,2025-07-01 19:25,San Francisco - Mission,CA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-018634,2025-07-01 06:39,San Francisco - Mission,CA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-018635,2025-07-01 10:07,San Francisco - Mission,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018636,2025-07-01 12:20,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018637,2025-07-01 07:27,Los Angeles - Silver Lake,CA,Matcha Latte,Tea,3,$5.50,$1.55,In-store,No,
+C-018638,2025-07-01 12:00,Los Angeles - Silver Lake,CA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-018639,2025-07-01 14:33,Los Angeles - Silver Lake,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-018640,2025-07-01 14:08,Austin - South Congress,TX,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-018641,2025-07-01 07:48,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018642,2025-07-01 06:20,Austin - South Congress,TX,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,5
+C-018643,2025-07-01 11:31,Chicago - Loop,IL,Latte,Hot coffee,3,$4.75,$1.05,Mobile,No,
+C-018644,2025-07-01 16:39,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018645,2025-07-01 08:04,Chicago - Loop,IL,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-018646,2025-07-01 10:17,Chicago - Loop,IL,Espresso,Hot coffee,1,$4.00,$0.55,Delivery,No,
+C-018647,2025-07-01 10:06,New York - Tribeca,NY,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,
+C-018648,2025-07-01 11:47,New York - Tribeca,NY,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-018649,2025-07-01 13:38,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-018650,2025-07-01 10:20,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-018651,2025-07-01 08:54,New York - Tribeca,NY,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,4
+C-018652,2025-07-01 10:29,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-018653,2025-07-01 12:25,Boston - Back Bay,MA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018654,2025-07-01 06:20,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018655,2025-07-01 16:16,Boston - Back Bay,MA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,5
+C-018656,2025-07-02 08:16,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018657,2025-07-02 12:59,Seattle - Pike St,WA,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-018658,2025-07-02 14:50,Seattle - Pike St,WA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-018659,2025-07-02 07:57,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-018660,2025-07-02 08:24,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,3
+C-018661,2025-07-02 07:48,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-018662,2025-07-02 15:29,Seattle - Capitol Hill,WA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-018663,2025-07-02 08:53,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,3
+C-018664,2025-07-02 11:47,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-018665,2025-07-02 19:45,Portland - Pearl,OR,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018666,2025-07-02 12:20,Portland - Pearl,OR,Americano,Hot coffee,2,$3.50,$0.65,Mobile,No,
+C-018667,2025-07-02 08:14,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018668,2025-07-02 09:45,San Francisco - Mission,CA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-018669,2025-07-02 10:06,San Francisco - Mission,CA,Breakfast Sandwich,Food,2,$7.50,$3.05,,No,
+C-018670,2025-07-02 06:37,SAN FRANCISCO - MISSION ,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018671,2025-07-02 10:22,Los Angeles - Silver Lake,CA,Latte,Hot coffee,2,$4.75,$1.05,Mobile,No,
+C-018672,2025-07-02 07:28,Los Angeles - Silver Lake,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,4
+C-018673,2025-07-02 10:59,Los Angeles - Silver Lake,CA,Chai Latte,Tea,1,$5.95,$1.25,,No,4
+C-018674,2025-07-02 19:39,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,4
+C-018675,2025-07-02 10:56,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-018676,2025-07-02 12:22,Austin - South Congress,TX,Cappuccino,Hot coffee,2,$4.50,$0.95,Mobile,No,
+C-018677,2025-07-02 18:59,Austin - South Congress,TX,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-018678,2025-07-02 16:23,Chicago - Loop,IL,Cold Brew,Iced coffee,3,$4.95,$0.85,In-store,No,
+C-018679,2025-07-02 12:25,Chicago - Loop,IL,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018680,2025-07-02 12:18,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-018681,2025-07-02 08:14,Chicago - Loop,IL,Cold Brew,Iced coffee,3,$4.95,$0.85,Mobile,No,
+C-018682,2025-07-02 08:16,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,5
+C-018683,2025-07-02 08:37,New York - Tribeca,NY,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-018684,2025-07-02 13:24,New York - Tribeca,NY,Breakfast Sandwich,Food,3,$7.50,$3.05,In-store,No,
+C-018685,2025-07-02 10:46,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,
+C-018686,2025-07-02 14:03,Boston - Back Bay,MA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018687,2025-07-02 07:09,Boston - Back Bay,MA,Latte,Hot coffee,2,$5.75,$1.05,Delivery,No,
+C-018688,2025-07-02 10:42,Boston - Back Bay,MA,Latte,Hot coffee,1,$5.75,$1.05,Delivery,No,
+C-018689,2025-07-02 09:04,Boston - Back Bay,MA,Cold Brew,Iced coffee,3,$4.95,$0.85,In-store,No,
+C-018690,2025-07-03 09:40,Seattle - Pike St,WA,Breakfast Sandwich,Food,4,$8.50,$3.05,Delivery,No,
+C-018691,2025-07-03 09:41,Seattle - Pike St,WA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,4
+C-018692,2025-07-03 16:34,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-018693,2025-07-03 16:29,Seattle - Pike St,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-018694,2025-07-03 07:31,Seattle - Capitol Hill,WA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-018695,2025-07-03 14:58,Seattle - Capitol Hill,WA,Latte,Hot coffee,2,$4.75,$1.05,In-store,No,4
+C-018696,2025-07-03 07:49,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018697,2025-07-03 14:57,Portland - Pearl,OR,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-018698,2025-07-03 07:49,Portland - Pearl,OR,Matcha Latte,Tea,3,$5.50,$1.55,Mobile,No,
+C-018699,2025-07-03 07:37,Portland - Pearl,OR,Latte,Hot coffee,2,$5.75,$1.05,Delivery,No,
+C-018700,2025-07-03 07:05,Portland - Pearl,OR,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018701,2025-07-03 11:19,San Francisco - Mission,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-018702,2025-07-03 10:44,San Francisco - Mission,CA,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-018703,2025-07-03 12:17,San Francisco - Mission,CA,Croissant,Bakery,2,$3.75,$1.35,In-store,No,
+C-018704,2025-07-03 14:03,San Francisco - Mission,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018705,2025-07-03 12:06,Los Angeles - Silver Lake,CA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,4
+C-018706,2025-07-03 17:43,Los Angeles - Silver Lake,CA,Matcha Latte,Tea,4,$5.50,$1.55,In-store,No,
+C-018707,2025-07-03 18:55,Los Angeles - Silver Lake,CA,Chai Latte,Tea,3,$4.95,$1.25,In-store,No,5
+C-018708,2025-07-03 07:04,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018709,2025-07-03 17:25,Austin - South Congress,TX,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018710,2025-07-03 09:47,Austin - South Congress,TX,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,5
+C-018711,2025-07-03 12:52,Austin - South Congress,TX,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,
+C-018712,2025-07-03 08:43,Chicago - Loop,IL,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018713,2025-07-03 16:09,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-018714,2025-07-03 19:06,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-018715,2025-07-03 15:52,Chicago - Loop,IL,Espresso,Hot coffee,1,$4.00,$0.55,Delivery,No,4
+C-018716,2025-07-03 14:10,New York - Tribeca,NY,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-018717,2025-07-03 16:14,New York - Tribeca,NY,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-018718,2025-07-03 10:33,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018719,2025-07-03 09:50,New York - Tribeca,NY,Croissant,Bakery,1,$3.75,$1.35,In-store,No,5
+C-018720,2025-07-03 06:56,New York - Tribeca,NY,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-018721,2025-07-03 06:11,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018722,2025-07-03 09:37,Boston - Back Bay,MA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018723,2025-07-03 10:01, boston - back bay,MA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018724,2025-07-03 11:55,Boston - Back Bay,MA,Espresso,Hot coffee,2,$3.00,$0.55,Mobile,No,
+C-018725,2025-07-04 08:28,Seattle - Pike St,WA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-018726,2025-07-04 10:14,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-018727,2025-07-04 10:26,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-018728,2025-07-04 11:11,Seattle - Pike St,WA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018729,2025-07-04 08:18,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,5
+C-018730,2025-07-04 16:00,Seattle - Capitol Hill,WA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-018731,2025-07-04 11:09,Seattle - Capitol Hill  ,WA,Cold Brew,Iced coffee,3,$4.95,$0.85,In-store,No,5
+C-018732,2025-07-04 08:14,Seattle - Capitol Hill,WA,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,4
+C-018733,2025-07-04 14:10,Seattle - Capitol Hill,WA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,5
+C-018734,2025-07-04 07:11,Portland - Pearl,OR,Chai Latte,Tea,4,$4.95,$1.25,Mobile,No,5
+C-018735,2025-07-04 12:37,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,3
+C-018736,2025-07-04 12:01,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-018737,2025-07-04 08:47,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018738,2025-07-04 10:14,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018739,2025-07-04 12:13,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018740,2025-07-04 07:12,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018741,2025-07-04 10:27,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-018742,2025-07-04 17:54,LOS ANGELES - SILVER LAKE ,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-018743,2025-07-04 14:30,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018744,2025-07-04 11:22,Austin - South Congress,TX,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,
+C-018745,2025-07-04 12:20,Austin - South Congress,TX,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018746,2025-07-04 10:02,Austin - South Congress,TX,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018747,2025-07-04 14:14,CHICAGO - LOOP ,IL,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,4
+C-018748,2025-07-04 10:19,Chicago - Loop,IL,Espresso,Hot coffee,1,$4.00,$0.55,Delivery,No,4
+C-018749,2025-07-04 15:45,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-018750,2025-07-04 13:15,Chicago - Loop,IL,Americano,Hot coffee,2,$3.50,$0.65,Mobile,No,
+C-018751,2025-07-04 17:42,Chicago - Loop,IL,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-018752,2025-07-04 18:25,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-018753,2025-07-04 07:04,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018754,2025-07-04 08:16,New York - Tribeca,NY,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018755,2025-07-04 10:31,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,4
+C-018756,2025-07-04 08:04,New York - Tribeca,NY,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-018757,2025-07-04 06:18,New York - Tribeca,NY,Croissant,Bakery,2,$3.75,$1.35,In-store,No,
+C-018758,2025-07-04 08:56,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018759,2025-07-04 13:42,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-018760,2025-07-04 08:25,Boston - Back Bay,MA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-018761,2025-07-04 08:14,Boston - Back Bay,MA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,5
+C-018762,2025-07-05 09:06,Seattle - Pike St,WA,Latte,Hot coffee,1,$4.75,$1.05,,No,
+C-018763,2025-07-05 17:22,Seattle - Pike St,WA,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,
+C-018764,2025-07-05 10:08,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,4
+C-018765,2025-07-05 08:46,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,5
+C-018766,2025-07-05 08:58,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018767,2025-07-05 11:42,Seattle - Capitol Hill,WA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,5
+C-018768,2025-07-05 15:51,Seattle - Capitol Hill  ,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,4
+C-018768,2025-07-05 15:51,Seattle - Capitol Hill  ,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,4
+C-018769,2025-07-05 17:36,Seattle - Capitol Hill,WA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-018770,2025-07-05 08:24,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018771,2025-07-05 12:28,Portland - Pearl,OR,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,5
+C-018772,2025-07-05 07:49,Portland - Pearl,OR,Espresso,Hot coffee,2,$3.00,$0.55,Mobile,No,
+C-018773,2025-07-05 11:31,PORTLAND - PEARL ,OR,Matcha Latte,Tea,2,$5.50,$1.55,Mobile,No,4
+C-018774,2025-07-05 07:46,Portland - Pearl,OR,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018775,2025-07-05 18:19,San Francisco - Mission,CA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-018776,2025-07-05 12:21,San Francisco - Mission,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-018777,2025-07-05 11:06,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018778,2025-07-05 06:50,San Francisco - Mission,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-018779,2025-07-05 13:57,San Francisco - Mission,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-018780,2025-07-05 08:14,Los Angeles - Silver Lake,CA,Espresso,Hot coffee,3,$3.00,$0.55,In-store,No,
+C-018781,2025-07-05 14:43,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,,No,
+C-018782,2025-07-05 10:11,LOS ANGELES - SILVER LAKE ,CA,Latte,Hot coffee,1,$5.75,$1.05,Delivery,No,
+C-018783,2025-07-05 11:12,Austin - South Congress,TX,Blueberry Muffin,Bakery,3,$3.50,$1.15,Mobile,No,4
+C-018784,2025-07-05 07:19,Austin - South Congress  ,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018785,2025-07-05 07:12,Austin - South Congress,TX,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,5
+C-018786,2025-07-05 08:51,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,3
+C-018787,2025-07-05 12:28,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018788,2025-07-05 12:33,Chicago - Loop,IL,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018789,2025-07-05 09:23,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018790,2025-07-05 15:32,Chicago - Loop,IL,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,5
+C-018791,2025-07-05 13:03,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-018792,2025-07-05 13:36,New York - Tribeca,NY,Cappuccino,Hot coffee,2,$4.50,$0.95,Mobile,No,4
+C-018793,2025-07-05 16:10,New York - Tribeca,NY,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-018794,2025-07-05 08:02,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-018795,2025-07-05 07:16,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018796,2025-07-05 10:38,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-018796,2025-07-05 10:38,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-018797,2025-07-05 12:31,Boston - Back Bay,MA,Americano,Hot coffee,2,$3.50,$0.65,Mobile,No,
+C-018798,2025-07-05 06:50,Boston - Back Bay,MA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,5
+C-018799,2025-07-05 08:52,Boston - Back Bay,MA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-018800,2025-07-06 08:16,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018801,2025-07-06 08:42,Seattle - Pike St,WA,Cappuccino,Hot coffee,1,$5.50,$0.95,Delivery,No,4
+C-018802,2025-07-06 09:21,Seattle - Pike St,WA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-018803,2025-07-06 13:03,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-018804,2025-07-06 16:27,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-018805,2025-07-06 14:12,Seattle - Capitol Hill,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,3
+C-018805,2025-07-06 14:12,Seattle - Capitol Hill,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,3
+C-018806,2025-07-06 07:49,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018807,2025-07-06 07:02,Seattle - Capitol Hill,WA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-018808,2025-07-06 12:22,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018809,2025-07-06 12:43,Portland - Pearl,OR,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-018810,2025-07-06 06:04,Portland - Pearl,OR,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-018811,2025-07-06 12:23,Portland - Pearl,OR,Iced Latte,Iced coffee,3,$5.25,$1.15,In-store,No,4
+C-018812,2025-07-06 07:20,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018813,2025-07-06 09:16,San Francisco - Mission  ,CA,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,3
+C-018814,2025-07-06 11:46,San Francisco - Mission,CA,Matcha Latte,Tea,3,$5.50,$1.55,Mobile,No,
+C-018815,2025-07-06 08:15,San Francisco - Mission,CA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,4
+C-018816,2025-07-06 10:45,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018817,2025-07-06 12:38,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,4
+C-018818,2025-07-06 07:31,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,5
+C-018819,2025-07-06 17:55,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018820,2025-07-06 11:44,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,3,$4.95,$0.85,In-store,No,
+C-018821,2025-07-06 13:25,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,4
+C-018822,2025-07-06 09:38,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-018823,2025-07-06 16:40,Austin - South Congress,TX,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-018824,2025-07-06 15:45,Austin - South Congress,TX,Cappuccino,Hot coffee,4,$5.50,$0.95,Delivery,No,
+C-018825,2025-07-06 07:20,Chicago - Loop,IL,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018826,2025-07-06 15:56,Chicago - Loop,IL,Latte,Hot coffee,2,$4.75,$1.05,Mobile,No,
+C-018827,2025-07-06 17:23,Chicago - Loop,IL,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-018828,2025-07-06 14:14,Chicago - Loop,IL,Chai Latte,Tea,2,$4.95,$1.25,,No,
+C-018829,2025-07-06 08:39,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018830,2025-07-06 15:51,New York - Tribeca,NY,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,4
+C-018831,2025-07-06 12:25,New York - Tribeca,NY,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018832,2025-07-06 08:10,New York - Tribeca,NY,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,
+C-018833,2025-07-06 09:43,New York - Tribeca,NY,Croissant,Bakery,1,$4.75,$1.35,Delivery,No,
+C-018834,2025-07-06 07:08,New York - Tribeca,NY,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,4
+C-018835,2025-07-06 07:09, boston - back bay,MA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-018836,2025-07-06 16:24,Boston - Back Bay,MA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-018837,2025-07-06 09:02,Boston - Back Bay,MA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-018838,2025-07-07 16:36,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018839,2025-07-07 15:33,Seattle - Pike St,WA,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-018840,2025-07-07 07:21,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-018841,2025-07-07 08:53,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-018842,2025-07-07 09:54,Seattle - Pike St,WA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018843,2025-07-07 10:32,Seattle - Capitol Hill,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-018844,2025-07-07 10:05,Seattle - Capitol Hill,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018845,2025-07-07 07:15,Seattle - Capitol Hill,WA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,4
+C-018846,2025-07-07 06:10,Seattle - Capitol Hill,WA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-018847,2025-07-07 13:51,Portland - Pearl,OR,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-018848,2025-07-07 18:51,Portland - Pearl,OR,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018849,2025-07-07 11:26,PORTLAND - PEARL ,OR,Blueberry Muffin,Bakery,2,$3.50,$1.15,In-store,No,
+C-018850,2025-07-07 07:09,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018851,2025-07-07 08:23,San Francisco - Mission,CA,Blueberry Muffin,Bakery,2,$3.50,$1.15,In-store,No,
+C-018852,2025-07-07 08:46,San Francisco - Mission,CA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-018853,2025-07-07 18:43,San Francisco - Mission,CA,Latte,Hot coffee,2,$4.75,$1.05,Mobile,No,5
+C-018854,2025-07-07 16:19,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,,No,
+C-018855,2025-07-07 11:16,San Francisco - Mission,CA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-018856,2025-07-07 07:53,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018857,2025-07-07 08:16,Los Angeles - Silver Lake,CA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018858,2025-07-07 15:51,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-018859,2025-07-07 12:10,Austin - South Congress,TX,Matcha Latte,Tea,3,$5.50,$1.55,In-store,No,4
+C-018860,2025-07-07 06:44,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-018861,2025-07-07 07:01,Chicago - Loop,IL,Croissant,Bakery,2,$3.75,$1.35,In-store,No,
+C-018862,2025-07-07 08:55,Chicago - Loop,IL,Chai Latte,Tea,3,$4.95,$1.25,In-store,No,
+C-018863,2025-07-07 14:36, chicago - loop,IL,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-018864,2025-07-07 08:53,New York - Tribeca,NY,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,5
+C-018865,2025-07-07 13:24,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018866,2025-07-07 09:33,New York - Tribeca,NY,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-018867,2025-07-07 15:56,New York - Tribeca,NY,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018868,2025-07-07 09:42,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018869,2025-07-07 14:26,New York - Tribeca,NY,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018870,2025-07-07 07:09,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-018871,2025-07-07 13:16,Boston - Back Bay,MA,Cold Brew,Iced coffee,4,$4.95,$0.85,In-store,No,
+C-018872,2025-07-07 08:03,Boston - Back Bay,MA,Cappuccino,Hot coffee,1,$4.50,$0.95,,No,
+C-018873,2025-07-07 10:04,Boston - Back Bay,MA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-018874,2025-07-08 13:19,Seattle - Pike St,WA,Iced Latte,Iced coffee,2,$6.25,$1.15,Delivery,No,3
+C-018875,2025-07-08 07:33,Seattle - Pike St,WA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-018876,2025-07-08 08:42,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018877,2025-07-08 08:04,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018878,2025-07-08 18:55,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018879,2025-07-08 08:00,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-018880,2025-07-08 12:42,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,,No,
+C-018881,2025-07-08 14:32,Seattle - Capitol Hill,WA,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,4
+C-018882,2025-07-08 13:47,Portland - Pearl,OR,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,5
+C-018883,2025-07-08 09:27,Portland - Pearl,OR,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-018884,2025-07-08 07:49,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018885,2025-07-08 08:30,San Francisco - Mission,CA,Breakfast Sandwich,Food,4,$7.50,$3.05,In-store,No,4
+C-018886,2025-07-08 13:55,San Francisco - Mission,CA,Americano,Hot coffee,3,$3.50,$0.65,In-store,No,
+C-018887,2025-07-08 08:01,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-018888,2025-07-08 12:39,San Francisco - Mission,CA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,5
+C-018889,2025-07-08 15:35,San Francisco - Mission,CA,Matcha Latte,Tea,1,$5.50,$1.55,,No,
+C-018890,2025-07-08 13:51,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018891,2025-07-08 10:18,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,5
+C-018892,2025-07-08 12:04,Los Angeles - Silver Lake,CA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-018893,2025-07-08 07:43,Los Angeles - Silver Lake,CA,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,5
+C-018894,2025-07-08 07:51,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018895,2025-07-08 07:57,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-018896,2025-07-08 08:35,Austin - South Congress,TX,Croissant,Bakery,4,$4.75,$1.35,Delivery,No,4
+C-018897,2025-07-08 16:00,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018898,2025-07-08 06:57,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018899,2025-07-08 08:25,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-018900,2025-07-08 09:31,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018901,2025-07-08 12:45,New York - Tribeca,NY,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-018902,2025-07-08 11:08,New York - Tribeca,NY,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-018903,2025-07-08 13:07,New York - Tribeca,NY,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-018904,2025-07-08 08:13,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018905,2025-07-08 12:32,Boston - Back Bay,MA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,5
+C-018906,2025-07-08 13:03,Boston - Back Bay,MA,Americano,Hot coffee,2,$3.50,$0.65,Mobile,No,
+C-018907,2025-07-08 09:21,Boston - Back Bay,MA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,5
+C-018908,2025-07-09 08:31,Seattle - Pike St,WA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018909,2025-07-09 14:14,Seattle - Pike St,WA,Cappuccino,Hot coffee,2,$4.50,$0.95,Mobile,No,5
+C-018910,2025-07-09 17:36,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-018911,2025-07-09 16:50,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$5.95,$0.85,,No,3
+C-018912,2025-07-09 12:06,Seattle - Pike St,WA,Latte,Hot coffee,2,$4.75,$1.05,In-store,No,
+C-018913,2025-07-09 12:15,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,
+C-018914,2025-07-09 12:20,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-018915,2025-07-09 08:15,Seattle - Capitol Hill,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-018916,2025-07-09 17:09,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-018917,2025-07-09 12:47,Portland - Pearl,OR,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,3
+C-018918,2025-07-09 15:17,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018919,2025-07-09 08:10,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-018920,2025-07-09 06:14,San Francisco - Mission,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,5
+C-018921,2025-07-09 07:51,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-018922,2025-07-09 13:39,San Francisco - Mission,CA,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,
+C-018923,2025-07-09 14:22,San Francisco - Mission,CA,Latte,Hot coffee,2,$4.75,$1.05,In-store,No,
+C-018924,2025-07-09 08:26,San Francisco - Mission,CA,Blueberry Muffin,Bakery,1,$4.50,$1.15,Delivery,No,
+C-018925,2025-07-09 08:23,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,3
+C-018926,2025-07-09 08:05,Los Angeles - Silver Lake,CA,Americano,Hot coffee,3,$3.50,$0.65,Mobile,No,
+C-018927,2025-07-09 06:11,Los Angeles - Silver Lake,CA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-018928,2025-07-09 09:48,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018929,2025-07-09 06:37,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,5
+C-018930,2025-07-09 09:14,Austin - South Congress,TX,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-018931,2025-07-09 16:06,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018932,2025-07-09 10:43,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,3
+C-018933,2025-07-09 06:11,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-018934,2025-07-09 07:38,Chicago - Loop,IL,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-018935,2025-07-09 08:22,New York - Tribeca,NY,Croissant,Bakery,3,$3.75,$1.35,Mobile,No,
+C-018936,2025-07-09 09:56,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-018937,2025-07-09 13:25,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018938,2025-07-09 09:57,New York - Tribeca,NY,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018939,2025-07-09 07:01,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018940,2025-07-09 14:00,Boston - Back Bay,MA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-018941,2025-07-09 16:34,Boston - Back Bay,MA,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,5
+C-018942,2025-07-10 09:38,Seattle - Pike St,WA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018943,2025-07-10 07:36,Seattle - Pike St,WA,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-018944,2025-07-10 10:44,Seattle - Pike St,WA,Chai Latte,Tea,2,$4.95,$1.25,Mobile,No,
+C-018945,2025-07-10 10:21,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018946,2025-07-10 13:49,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018947,2025-07-10 13:11,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018948,2025-07-10 14:09,Seattle - Capitol Hill,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018949,2025-07-10 11:42,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,4
+C-018950,2025-07-10 08:37,Seattle - Capitol Hill,WA,Blueberry Muffin,Bakery,2,$3.50,$1.15,Mobile,No,4
+C-018951,2025-07-10 17:55,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,,No,
+C-018952,2025-07-10 13:20,Portland - Pearl  ,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018953,2025-07-10 06:34,Portland - Pearl,OR,Blueberry Muffin,Bakery,1,$4.50,$1.15,Delivery,No,
+C-018954,2025-07-10 15:55,Portland - Pearl,OR,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018955,2025-07-10 09:09,San Francisco - Mission,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-018956,2025-07-10 10:08,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018957,2025-07-10 11:13,San Francisco - Mission,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018958,2025-07-10 16:55,San Francisco - Mission,CA,Cold Brew,Iced coffee,2,$5.95,$0.85,Delivery,No,
+C-018959,2025-07-10 07:44,Los Angeles - Silver Lake,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-018960,2025-07-10 08:03,Los Angeles - Silver Lake,CA,Breakfast Sandwich,Food,4,$7.50,$3.05,Mobile,No,
+C-018961,2025-07-10 13:38,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,5
+C-018962,2025-07-10 12:01,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018963,2025-07-10 13:15,Austin - South Congress,TX,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-018964,2025-07-10 10:49,Austin - South Congress,TX,Cappuccino,Hot coffee,2,$4.50,$0.95,Mobile,No,
+C-018965,2025-07-10 09:49,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018966,2025-07-10 11:23,Chicago - Loop  ,IL,Iced Latte,Iced coffee,3,$5.25,$1.15,Mobile,No,
+C-018967,2025-07-10 06:25,Chicago - Loop,IL,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-018968,2025-07-10 17:15,Chicago - Loop,IL,Breakfast Sandwich,Food,1,$8.50,$3.05,Delivery,No,4
+C-018969,2025-07-10 08:44,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-018970,2025-07-10 13:23,Chicago - Loop,IL,Cold Brew,Iced coffee,3,$4.95,$0.85,In-store,No,5
+C-018971,2025-07-10 09:58,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-018972,2025-07-10 09:09,New York - Tribeca,NY,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-018973,2025-07-10 09:20,New York - Tribeca,NY,Croissant,Bakery,2,$3.75,$1.35,In-store,No,5
+C-018974,2025-07-10 07:01,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-018975,2025-07-10 11:19,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-018976,2025-07-10 17:01,New York - Tribeca,NY,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-018977,2025-07-10 07:15,Boston - Back Bay,MA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-018978,2025-07-10 06:02,Boston - Back Bay,MA,Iced Latte,Iced coffee,3,$6.25,$1.15,Delivery,No,
+C-018979,2025-07-10 09:39,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-018980,2025-07-11 16:37,Seattle - Pike St  ,WA,Espresso,Hot coffee,3,$3.00,$0.55,In-store,No,
+C-018981,2025-07-11 08:45,Seattle - Pike St,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-018982,2025-07-11 06:46,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018983,2025-07-11 13:15,Seattle - Pike St,WA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-018984,2025-07-11 08:08,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,3
+C-018985,2025-07-11 07:05,Seattle - Pike St,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-018986,2025-07-11 08:20,Seattle - Capitol Hill,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-018987,2025-07-11 07:21,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018988,2025-07-11 07:07,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018989,2025-07-11 08:31,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-018990,2025-07-11 13:00,Portland - Pearl,OR,Cappuccino,Hot coffee,3,$4.50,$0.95,In-store,No,
+C-018991,2025-07-11 11:32,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-018992,2025-07-11 09:14,San Francisco - Mission  ,CA,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,5
+C-018993,2025-07-11 09:10,San Francisco - Mission,CA,Cappuccino,Hot coffee,2,$4.50,$0.95,In-store,No,
+C-018994,2025-07-11 08:55,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-018995,2025-07-11 16:55,San Francisco - Mission,CA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-018996,2025-07-11 12:47,Los Angeles - Silver Lake,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-018997,2025-07-11 17:47,LOS ANGELES - SILVER LAKE ,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,4
+C-018998,2025-07-11 08:16,Los Angeles - Silver Lake,CA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-018999,2025-07-11 08:36,Austin - South Congress,TX,Latte,Hot coffee,3,$4.75,$1.05,In-store,No,
+C-019000,2025-07-11 09:37,Austin - South Congress,TX,Blueberry Muffin,Bakery,1,$3.50,$1.15,,No,
+C-019001,2025-07-11 10:45,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019002,2025-07-11 09:19,Chicago - Loop  ,IL,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019003,2025-07-11 17:45,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019004,2025-07-11 14:33,Chicago - Loop,IL,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019005,2025-07-11 09:16,New York - Tribeca,NY,Cold Brew,Iced coffee,3,$4.95,$0.85,In-store,No,
+C-019006,2025-07-11 10:44,New York - Tribeca,NY,Cold Brew,Iced coffee,3,$5.95,$0.85,Delivery,No,
+C-019007,2025-07-11 15:31,New York - Tribeca,NY,Espresso,Hot coffee,2,$4.00,$0.55,Delivery,No,
+C-019008,2025-07-11 06:39,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019009,2025-07-11 07:12,New York - Tribeca,NY,Blueberry Muffin,Bakery,2,$3.50,$1.15,,No,
+C-019010,2025-07-11 19:19,Boston - Back Bay,MA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019011,2025-07-11 09:22,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-019011,2025-07-11 09:22,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-019012,2025-07-11 09:01,Boston - Back Bay,MA,Cold Brew,Iced coffee,3,$4.95,$0.85,Mobile,No,
+C-019013,2025-07-12 10:22,Seattle - Pike St,WA,Chai Latte,Tea,2,$4.95,$1.25,Mobile,No,3
+C-019014,2025-07-12 17:07,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-019015,2025-07-12 09:47,Seattle - Pike St,WA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019016,2025-07-12 07:22,Seattle - Pike St,WA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,4
+C-019017,2025-07-12 09:39,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,4
+C-019018,2025-07-12 07:23,Seattle - Pike St,WA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019019,2025-07-12 09:49,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019020,2025-07-12 07:45,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-019021,2025-07-12 17:37,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019022,2025-07-12 10:43,Seattle - Capitol Hill,WA,Matcha Latte,Tea,2,$5.50,$1.55,Mobile,No,
+C-019023,2025-07-12 07:47,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019024,2025-07-12 18:22,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,3
+C-019025,2025-07-12 08:26, portland - pearl,OR,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,
+C-019026,2025-07-12 19:21,Portland - Pearl,OR,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019027,2025-07-12 08:39,Portland - Pearl,OR,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019028,2025-07-12 07:42,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,
+C-019029,2025-07-12 10:40,San Francisco - Mission,CA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019030,2025-07-12 06:18,San Francisco - Mission,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-019031,2025-07-12 13:51,San Francisco - Mission,CA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-019032,2025-07-12 11:43,San Francisco - Mission,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,4
+C-019033,2025-07-12 11:41,San Francisco - Mission,CA,Espresso,Hot coffee,3,$3.00,$0.55,Mobile,No,3
+C-019034,2025-07-12 10:04,Los Angeles - Silver Lake,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019035,2025-07-12 09:31,Los Angeles - Silver Lake,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-019036,2025-07-12 10:11,Los Angeles - Silver Lake,CA,Blueberry Muffin,Bakery,2,$3.50,$1.15,In-store,No,
+C-019037,2025-07-12 12:56,Los Angeles - Silver Lake,CA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-019038,2025-07-12 08:32,Austin - South Congress,TX,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019039,2025-07-12 07:02,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019040,2025-07-12 16:40,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019041,2025-07-12 12:25,Chicago - Loop,IL,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,5
+C-019042,2025-07-12 13:04,Chicago - Loop,IL,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,4
+C-019043,2025-07-12 08:42,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019044,2025-07-12 07:49,Chicago - Loop,IL,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019045,2025-07-12 07:16,New York - Tribeca,NY,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019046,2025-07-12 07:09,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,,No,
+C-019047,2025-07-12 08:38,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019048,2025-07-12 09:03,New York - Tribeca,NY,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,5
+C-019049,2025-07-12 08:18,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,4
+C-019050,2025-07-12 08:47,New York - Tribeca,NY,Cappuccino,Hot coffee,3,$4.50,$0.95,Mobile,No,3
+C-019051,2025-07-12 08:12,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,
+C-019052,2025-07-12 08:46,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019053,2025-07-12 12:03,BOSTON - BACK BAY ,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019054,2025-07-12 09:55,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$8.50,$3.05,Delivery,No,
+C-019055,2025-07-12 07:30,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019056,2025-07-13 08:21,Seattle - Pike St  ,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019057,2025-07-13 16:33,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$5.95,$0.85,Delivery,No,4
+C-019058,2025-07-13 07:15,Seattle - Pike St,WA,Cappuccino,Hot coffee,1,$5.50,$0.95,Delivery,No,
+C-019059,2025-07-13 08:48,Seattle - Pike St,WA,Americano,Hot coffee,1,$4.50,$0.65,Delivery,No,
+C-019060,2025-07-13 07:28,Seattle - Capitol Hill,WA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,5
+C-019061,2025-07-13 06:02,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,5
+C-019062,2025-07-13 14:40,Seattle - Capitol Hill,WA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019063,2025-07-13 10:15,Seattle - Capitol Hill,WA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019064,2025-07-13 16:31,SEATTLE - CAPITOL HILL ,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019065,2025-07-13 14:42,Portland - Pearl,OR,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019066,2025-07-13 13:16,Portland - Pearl,OR,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019067,2025-07-13 13:59,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019068,2025-07-13 08:40,Portland - Pearl,OR,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,5
+C-019069,2025-07-13 06:55,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019070,2025-07-13 14:47,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019071,2025-07-13 17:03,San Francisco - Mission,CA,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,5
+C-019072,2025-07-13 07:12,San Francisco - Mission,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019073,2025-07-13 14:12,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019074,2025-07-13 15:42,San Francisco - Mission,CA,Blueberry Muffin,Bakery,2,$3.50,$1.15,In-store,No,
+C-019075,2025-07-13 06:30,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-019076,2025-07-13 08:52,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019077,2025-07-13 11:21,Los Angeles - Silver Lake,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,5
+C-019078,2025-07-13 12:12,Los Angeles - Silver Lake,CA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019079,2025-07-13 11:05,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019080,2025-07-13 09:27,Austin - South Congress,TX,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019081,2025-07-13 17:31,Austin - South Congress,TX,Cappuccino,Hot coffee,2,$4.50,$0.95,Mobile,No,
+C-019082,2025-07-13 07:18,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019083,2025-07-13 16:26,Austin - South Congress,TX,Croissant,Bakery,1,$4.75,$1.35,Delivery,No,
+C-019084,2025-07-13 07:29,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019085,2025-07-13 06:20,Chicago - Loop  ,IL,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,5
+C-019086,2025-07-13 07:56,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019087,2025-07-13 08:50,Chicago - Loop,IL,Latte,Hot coffee,3,$4.75,$1.05,In-store,No,5
+C-019088,2025-07-13 10:42,New York - Tribeca,NY,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019089,2025-07-13 07:51,New York - Tribeca,NY,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019090,2025-07-13 17:47,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,3
+C-019091,2025-07-13 08:01,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019092,2025-07-13 14:35,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019093,2025-07-13 12:24,New York - Tribeca,NY,Espresso,Hot coffee,2,$3.00,$0.55,Mobile,No,4
+C-019094,2025-07-13 06:11,Boston - Back Bay,MA,Blueberry Muffin,Bakery,1,$4.50,$1.15,Delivery,No,
+C-019095,2025-07-13 06:46,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019096,2025-07-13 08:59,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,3
+C-019097,2025-07-13 09:16,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,
+C-019098,2025-07-13 10:37,Boston - Back Bay,MA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,4
+C-019099,2025-07-14 06:55,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019100,2025-07-14 07:17,Seattle - Pike St,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,5
+C-019101,2025-07-14 07:49,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019102,2025-07-14 11:23,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019103,2025-07-14 07:20,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019104,2025-07-14 08:40,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,3,$5.25,$1.15,Mobile,No,
+C-019105,2025-07-14 13:22,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,5
+C-019106,2025-07-14 12:28, portland - pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-019107,2025-07-14 12:53,Portland - Pearl,OR,Breakfast Sandwich,Food,1,$8.50,$3.05,Delivery,No,
+C-019108,2025-07-14 08:41,Portland - Pearl,OR,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019109,2025-07-14 08:36,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,
+C-019110,2025-07-14 07:04,San Francisco - Mission,CA,Americano,Hot coffee,1,$4.50,$0.65,Delivery,No,4
+C-019111,2025-07-14 13:23,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019112,2025-07-14 06:32,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019113,2025-07-14 18:17,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,5
+C-019114,2025-07-14 07:58,Los Angeles - Silver Lake,CA,Americano,Hot coffee,2,$4.50,$0.65,Delivery,No,
+C-019115,2025-07-14 06:17,Los Angeles - Silver Lake,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019116,2025-07-14 12:17,LOS ANGELES - SILVER LAKE ,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-019117,2025-07-14 14:44,Austin - South Congress,TX,Cold Brew,Iced coffee,4,$4.95,$0.85,,No,4
+C-019118,2025-07-14 08:20,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019119,2025-07-14 08:06,Austin - South Congress,TX,Iced Latte,Iced coffee,3,$5.25,$1.15,In-store,No,3
+C-019120,2025-07-14 10:18,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,3
+C-019121,2025-07-14 14:58,Chicago - Loop,IL,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019122,2025-07-14 19:45,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,
+C-019123,2025-07-14 07:56,New York - Tribeca,NY,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019124,2025-07-14 08:25,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019125,2025-07-14 16:08,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019126,2025-07-14 09:54,New York - Tribeca,NY,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,4
+C-019127,2025-07-14 15:25,New York - Tribeca,NY,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019128,2025-07-14 10:06,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019129,2025-07-14 06:00,Boston - Back Bay,MA,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,
+C-019130,2025-07-14 12:01,Boston - Back Bay,MA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,4
+C-019131,2025-07-14 13:02,Boston - Back Bay,MA,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,
+C-019132,2025-07-15 12:59,Seattle - Pike St,WA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-019133,2025-07-15 16:23,Seattle - Pike St,WA,Chai Latte,Tea,1,$5.95,$1.25,Delivery,No,
+C-019134,2025-07-15 07:07,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019135,2025-07-15 12:26,Seattle - Pike St,WA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019136,2025-07-15 16:44,Seattle - Capitol Hill,WA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,4
+C-019137,2025-07-15 08:37,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019138,2025-07-15 08:28,Seattle - Capitol Hill  ,WA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019139,2025-07-15 12:23,Portland - Pearl,OR,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019140,2025-07-15 10:18,Portland - Pearl,OR,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019141,2025-07-15 08:58,Portland - Pearl,OR,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,4
+C-019142,2025-07-15 07:45,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019143,2025-07-15 18:41,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019144,2025-07-15 08:40,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019145,2025-07-15 07:06,San Francisco - Mission,CA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,4
+C-019146,2025-07-15 10:15,Los Angeles - Silver Lake,CA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019147,2025-07-15 13:00,Los Angeles - Silver Lake,CA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,5
+C-019148,2025-07-15 09:21,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,3,$4.95,$0.85,In-store,No,3
+C-019149,2025-07-15 10:11,Austin - South Congress,TX,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019150,2025-07-15 17:27,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019151,2025-07-15 19:43,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019152,2025-07-15 07:03,Chicago - Loop,IL,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,
+C-019153,2025-07-15 08:31,Chicago - Loop,IL,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019154,2025-07-15 09:00,Chicago - Loop,IL,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,4
+C-019155,2025-07-15 09:28,Chicago - Loop,IL,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019156,2025-07-15 10:58,Chicago - Loop,IL,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019157,2025-07-15 17:19,New York - Tribeca,NY,Americano,Hot coffee,2,$3.50,$0.65,Mobile,No,
+C-019158,2025-07-15 12:13,New York - Tribeca,NY,Breakfast Sandwich,Food,2,$7.50,$3.05,Mobile,No,
+C-019159,2025-07-15 14:29,New York - Tribeca,NY,Blueberry Muffin,Bakery,2,$4.50,$1.15,Delivery,No,
+C-019160,2025-07-15 11:48,New York - Tribeca,NY,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,4
+C-019161,2025-07-15 09:12,New York - Tribeca  ,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019162,2025-07-15 11:27,New York - Tribeca,NY,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019163,2025-07-15 12:23,Boston - Back Bay,MA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-019164,2025-07-15 09:11,Boston - Back Bay,MA,Matcha Latte,Tea,2,$5.50,$1.55,Mobile,No,
+C-019165,2025-07-15 07:37,Boston - Back Bay,MA,Croissant,Bakery,2,$3.75,$1.35,In-store,No,
+C-019166,2025-07-15 08:44,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019167,2025-07-16 10:16,Seattle - Pike St,WA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019167,2025-07-16 10:16,Seattle - Pike St,WA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019168,2025-07-16 08:38,Seattle - Pike St,WA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-019169,2025-07-16 11:26,Seattle - Pike St,WA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019170,2025-07-16 06:51, seattle - pike st,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019171,2025-07-16 14:33,Seattle - Pike St,WA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,5
+C-019172,2025-07-16 16:43,Seattle - Pike St,WA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,5
+C-019173,2025-07-16 15:19,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-019174,2025-07-16 06:47,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019175,2025-07-16 07:20,SEATTLE - CAPITOL HILL ,WA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-019176,2025-07-16 17:45,Portland - Pearl,OR,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-019177,2025-07-16 07:33,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019178,2025-07-16 15:08,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019179,2025-07-16 11:44,Portland - Pearl,OR,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019180,2025-07-16 10:57,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019181,2025-07-16 17:19,San Francisco - Mission,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019182,2025-07-16 13:14,San Francisco - Mission,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,4
+C-019183,2025-07-16 17:07, san francisco - mission,CA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019184,2025-07-16 09:57,Los Angeles - Silver Lake,CA,Espresso,Hot coffee,2,$4.00,$0.55,Delivery,No,
+C-019185,2025-07-16 15:16,Los Angeles - Silver Lake,CA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019186,2025-07-16 06:30,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019187,2025-07-16 10:12,Los Angeles - Silver Lake,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019188,2025-07-16 07:16,Austin - South Congress,TX,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,4
+C-019189,2025-07-16 17:31,Austin - South Congress,TX,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-019190,2025-07-16 13:11,Austin - South Congress,TX,Croissant,Bakery,2,$4.75,$1.35,Delivery,No,3
+C-019191,2025-07-16 09:49,Chicago - Loop,IL,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,3
+C-019192,2025-07-16 08:39,Chicago - Loop,IL,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019193,2025-07-16 13:40,Chicago - Loop,IL,Espresso,Hot coffee,3,$3.00,$0.55,In-store,No,
+C-019194,2025-07-16 13:21,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019195,2025-07-16 08:24,New York - Tribeca,NY,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-019196,2025-07-16 07:43,New York - Tribeca,NY,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019197,2025-07-16 10:39,New York - Tribeca,NY,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,
+C-019198,2025-07-16 14:27,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019199,2025-07-16 11:51,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019200,2025-07-16 07:52,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,4
+C-019201,2025-07-16 08:42,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,3
+C-019202,2025-07-16 18:15,Boston - Back Bay  ,MA,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,
+C-019203,2025-07-16 14:32,Boston - Back Bay,MA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019204,2025-07-16 08:35,Boston - Back Bay,MA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,5
+C-019205,2025-07-17 10:25,Seattle - Pike St,WA,Cold Brew,Iced coffee,3,$4.95,$0.85,Mobile,No,
+C-019206,2025-07-17 08:09,Seattle - Pike St,WA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019207,2025-07-17 14:37,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-019208,2025-07-17 09:22,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019209,2025-07-17 06:40,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019210,2025-07-17 07:45,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,5
+C-019211,2025-07-17 11:55,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019212,2025-07-17 07:12,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019213,2025-07-17 12:50,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019214,2025-07-17 08:53,Portland - Pearl,OR,Chai Latte,Tea,4,$4.95,$1.25,Mobile,No,
+C-019215,2025-07-17 07:05,Portland - Pearl,OR,Matcha Latte,Tea,1,$5.50,$1.55,,No,
+C-019216,2025-07-17 06:23,Portland - Pearl,OR,Croissant,Bakery,4,$3.75,$1.35,Mobile,No,
+C-019217,2025-07-17 09:45,Portland - Pearl,OR,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019218,2025-07-17 06:27,San Francisco - Mission,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,4
+C-019219,2025-07-17 08:43,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,3
+C-019220,2025-07-17 06:50,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019221,2025-07-17 09:22,San Francisco - Mission,CA,Latte,Hot coffee,1,$4.75,$1.05,,No,
+C-019222,2025-07-17 16:54, los angeles - silver lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019223,2025-07-17 16:35,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019224,2025-07-17 07:31,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,4
+C-019225,2025-07-17 07:15,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,4
+C-019226,2025-07-17 15:59,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019227,2025-07-17 06:38,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019228,2025-07-17 07:01,Austin - South Congress,TX,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,5
+C-019229,2025-07-17 13:11,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019230,2025-07-17 15:22,Chicago - Loop,IL,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,5
+C-019231,2025-07-17 09:30,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019232,2025-07-17 17:55,New York - Tribeca,NY,Iced Latte,Iced coffee,2,$6.25,$1.15,Delivery,No,
+C-019233,2025-07-17 08:42,New York - Tribeca,NY,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019234,2025-07-17 14:13,New York - Tribeca,NY,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019235,2025-07-17 11:00,New York - Tribeca,NY,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019236,2025-07-17 13:32,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019237,2025-07-17 08:27,Boston - Back Bay,MA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019238,2025-07-17 11:21,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,4
+C-019239,2025-07-17 06:27,Boston - Back Bay,MA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019240,2025-07-18 07:28,Seattle - Pike St,WA,Espresso,Hot coffee,1,$4.00,$0.55,Delivery,No,
+C-019241,2025-07-18 15:39,Seattle - Pike St,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019242,2025-07-18 18:08,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019243,2025-07-18 06:33,Seattle - Pike St,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-019244,2025-07-18 18:36,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019245,2025-07-18 17:24,Seattle - Capitol Hill,WA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019246,2025-07-18 09:36,Seattle - Capitol Hill,WA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019247,2025-07-18 14:20,Seattle - Capitol Hill,WA,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019248,2025-07-18 07:57,Portland - Pearl,OR,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,4
+C-019249,2025-07-18 13:11,Portland - Pearl,OR,Croissant,Bakery,2,$3.75,$1.35,Mobile,No,
+C-019250,2025-07-18 12:49,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,5
+C-019251,2025-07-18 12:32,San Francisco - Mission,CA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019252,2025-07-18 16:23,San Francisco - Mission,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,4
+C-019253,2025-07-18 16:47,San Francisco - Mission,CA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,5
+C-019254,2025-07-18 11:52,Los Angeles - Silver Lake,CA,Latte,Hot coffee,1,$5.75,$1.05,Delivery,No,3
+C-019255,2025-07-18 17:39,Los Angeles - Silver Lake,CA,Croissant,Bakery,3,$3.75,$1.35,Mobile,No,
+C-019256,2025-07-18 11:57,Los Angeles - Silver Lake,CA,Matcha Latte,Tea,3,$5.50,$1.55,In-store,No,
+C-019257,2025-07-18 15:11,Austin - South Congress,TX,Blueberry Muffin,Bakery,3,$4.50,$1.15,Delivery,No,
+C-019258,2025-07-18 07:08,Austin - South Congress,TX,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,
+C-019259,2025-07-18 09:52,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,4
+C-019260,2025-07-18 13:15,Chicago - Loop,IL,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019261,2025-07-18 10:25,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019262,2025-07-18 17:14,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019263,2025-07-18 13:45,Chicago - Loop,IL,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,5
+C-019264,2025-07-18 09:46,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019265,2025-07-18 08:26,New York - Tribeca,NY,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-019266,2025-07-18 10:50,New York - Tribeca,NY,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019267,2025-07-18 08:52,New York - Tribeca,NY,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019268,2025-07-18 09:48,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019269,2025-07-18 09:01,New York - Tribeca,NY,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-019270,2025-07-18 14:44,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019270,2025-07-18 14:44,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019271,2025-07-18 08:07,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019272,2025-07-18 07:19,Boston - Back Bay,MA,Chai Latte,Tea,3,$4.95,$1.25,In-store,No,
+C-019273,2025-07-19 07:56,Seattle - Pike St,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,5
+C-019274,2025-07-19 08:34,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019275,2025-07-19 16:40,Seattle - Pike St,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019276,2025-07-19 16:26,Seattle - Pike St,WA,Americano,Hot coffee,2,$3.50,$0.65,Mobile,No,5
+C-019277,2025-07-19 09:57,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019278,2025-07-19 13:15,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019279,2025-07-19 09:49,Seattle - Pike St,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019280,2025-07-19 08:53,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,3
+C-019281,2025-07-19 07:44,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019282,2025-07-19 07:58,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019283,2025-07-19 11:22,Seattle - Capitol Hill,WA,Blueberry Muffin,Bakery,2,$3.50,$1.15,In-store,No,
+C-019284,2025-07-19 11:56,Portland - Pearl,OR,Breakfast Sandwich,Food,1,$7.50,$3.05,,No,5
+C-019285,2025-07-19 07:41,Portland - Pearl,OR,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019286,2025-07-19 18:05,Portland - Pearl,OR,Espresso,Hot coffee,3,$3.00,$0.55,Mobile,No,
+C-019287,2025-07-19 19:26,Portland - Pearl,OR,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019288,2025-07-19 07:57,Portland - Pearl,OR,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019289,2025-07-19 10:16,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019290,2025-07-19 09:09,San Francisco - Mission,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-019291,2025-07-19 08:08,San Francisco - Mission,CA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019292,2025-07-19 08:42,San Francisco - Mission,CA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019293,2025-07-19 07:38,San Francisco - Mission,CA,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019294,2025-07-19 07:03,Los Angeles - Silver Lake,CA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,5
+C-019295,2025-07-19 08:05,Los Angeles - Silver Lake,CA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019296,2025-07-19 07:05,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019297,2025-07-19 16:56,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019298,2025-07-19 07:52,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019299,2025-07-19 09:26,Austin - South Congress,TX,Matcha Latte,Tea,2,$5.50,$1.55,Mobile,No,
+C-019300,2025-07-19 13:00,Austin - South Congress,TX,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019301,2025-07-19 16:17,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019302,2025-07-19 07:27,Chicago - Loop,IL,Cappuccino,Hot coffee,1,$5.50,$0.95,Delivery,No,3
+C-019303,2025-07-19 07:41,Chicago - Loop,IL,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019304,2025-07-19 12:22,Chicago - Loop,IL,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-019305,2025-07-19 11:33,Chicago - Loop,IL,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019306,2025-07-19 16:15,Chicago - Loop,IL,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-019307,2025-07-19 13:09,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019308,2025-07-19 12:26,New York - Tribeca,NY,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019309,2025-07-19 13:41,New York - Tribeca,NY,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019310,2025-07-19 15:01,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019311,2025-07-19 07:01,New York - Tribeca,NY,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,5
+C-019312,2025-07-19 10:23,New York - Tribeca,NY,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,4
+C-019313,2025-07-19 08:33,Boston - Back Bay,MA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019314,2025-07-19 13:27,Boston - Back Bay,MA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019315,2025-07-19 11:50,Boston - Back Bay,MA,Espresso,Hot coffee,2,$3.00,$0.55,Mobile,No,
+C-019316,2025-07-19 08:36,Boston - Back Bay,MA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,4
+C-019317,2025-07-20 09:43,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019318,2025-07-20 13:27,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$8.50,$3.05,Delivery,No,
+C-019319,2025-07-20 08:23,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019320,2025-07-20 18:14,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019321,2025-07-20 10:41,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019322,2025-07-20 07:01,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019323,2025-07-20 18:03,Seattle - Capitol Hill,WA,Chai Latte,Tea,1,$5.95,$1.25,Delivery,No,
+C-019324,2025-07-20 07:49,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-019325,2025-07-20 11:29,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,3,$6.25,$1.15,Delivery,No,
+C-019326,2025-07-20 12:46,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019327,2025-07-20 06:16,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019328,2025-07-20 13:48,Portland - Pearl,OR,Cold Brew,Iced coffee,4,$4.95,$0.85,Mobile,No,
+C-019329,2025-07-20 10:51,Portland - Pearl,OR,Matcha Latte,Tea,2,$6.50,$1.55,Delivery,No,
+C-019330,2025-07-20 08:54,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019331,2025-07-20 06:02,Portland - Pearl,OR,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019332,2025-07-20 08:15,San Francisco - Mission,CA,Breakfast Sandwich,Food,1,$8.50,$3.05,,No,
+C-019333,2025-07-20 13:01,San Francisco - Mission,CA,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,
+C-019334,2025-07-20 08:08,San Francisco - Mission,CA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,5
+C-019335,2025-07-20 13:11,San Francisco - Mission,CA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019336,2025-07-20 08:53,San Francisco - Mission,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019337,2025-07-20 12:25,San Francisco - Mission,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-019338,2025-07-20 16:46,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019339,2025-07-20 13:49,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019340,2025-07-20 06:27,Los Angeles - Silver Lake,CA,Americano,Hot coffee,3,$3.50,$0.65,Mobile,No,
+C-019341,2025-07-20 09:43,Austin - South Congress,TX,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,4
+C-019342,2025-07-20 08:39,Austin - South Congress,TX,Iced Latte,Iced coffee,3,$5.25,$1.15,In-store,No,4
+C-019343,2025-07-20 17:28,Austin - South Congress,TX,Cappuccino,Hot coffee,2,$4.50,$0.95,In-store,No,
+C-019344,2025-07-20 12:47,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019345,2025-07-20 09:15,Chicago - Loop,IL,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-019346,2025-07-20 07:49,Chicago - Loop,IL,Croissant,Bakery,2,$3.75,$1.35,In-store,No,
+C-019347,2025-07-20 07:35,Chicago - Loop,IL,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019348,2025-07-20 12:39,Chicago - Loop,IL,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019349,2025-07-20 13:56,New York - Tribeca,NY,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019350,2025-07-20 17:37,New York - Tribeca,NY,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019351,2025-07-20 12:33,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019352,2025-07-20 07:10,New York - Tribeca,NY,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,4
+C-019353,2025-07-20 17:46,New York - Tribeca,NY,Americano,Hot coffee,1,$4.50,$0.65,Delivery,No,
+C-019354,2025-07-20 09:24,New York - Tribeca,NY,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019355,2025-07-20 12:59,New York - Tribeca,NY,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-019356,2025-07-20 09:10,Boston - Back Bay,MA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019357,2025-07-20 17:39,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019358,2025-07-20 07:14,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-019359,2025-07-20 18:59,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019360,2025-07-21 12:57,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019361,2025-07-21 08:46,Seattle - Pike St,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019362,2025-07-21 07:05,Seattle - Pike St,WA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019363,2025-07-21 08:42,Seattle - Pike St,WA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,5
+C-019364,2025-07-21 13:04,Seattle - Pike St,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019365,2025-07-21 16:11,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019366,2025-07-21 15:34,Seattle - Capitol Hill,WA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,5
+C-019367,2025-07-21 17:37,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019368,2025-07-21 15:15,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019369,2025-07-21 11:55,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019370,2025-07-21 07:00,Portland - Pearl,OR,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,
+C-019371,2025-07-21 06:42,San Francisco - Mission,CA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-019372,2025-07-21 11:51, san francisco - mission,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019373,2025-07-21 07:54,San Francisco - Mission,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,4
+C-019374,2025-07-21 16:38,San Francisco - Mission,CA,Blueberry Muffin,Bakery,2,$3.50,$1.15,Mobile,No,
+C-019375,2025-07-21 12:27,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019376,2025-07-21 15:45,Los Angeles - Silver Lake,CA,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019377,2025-07-21 10:48,Los Angeles - Silver Lake,CA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019378,2025-07-21 11:58,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,,No,
+C-019379,2025-07-21 10:26,Los Angeles - Silver Lake,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019380,2025-07-21 17:29,Austin - South Congress,TX,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019381,2025-07-21 06:48,Austin - South Congress,TX,Latte,Hot coffee,2,$5.75,$1.05,Delivery,No,
+C-019382,2025-07-21 14:17,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019383,2025-07-21 07:34,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019384,2025-07-21 11:53,Chicago - Loop,IL,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,4
+C-019385,2025-07-21 16:04,Chicago - Loop,IL,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019386,2025-07-21 12:23,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,,No,
+C-019387,2025-07-21 18:15,New York - Tribeca,NY,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,3
+C-019388,2025-07-21 12:46,New York - Tribeca,NY,Chai Latte,Tea,3,$4.95,$1.25,Mobile,No,
+C-019389,2025-07-21 12:00,New York - Tribeca,NY,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,4
+C-019390,2025-07-21 10:43,New York - Tribeca,NY,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019391,2025-07-21 17:24,Boston - Back Bay,MA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019392,2025-07-21 19:49,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019393,2025-07-21 12:50,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-019394,2025-07-22 15:38,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019395,2025-07-22 08:47,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019396,2025-07-22 11:54, seattle - pike st,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019397,2025-07-22 18:46,Seattle - Pike St,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019398,2025-07-22 08:43,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019399,2025-07-22 08:34,SEATTLE - CAPITOL HILL ,WA,Cappuccino,Hot coffee,2,$4.50,$0.95,Mobile,No,
+C-019400,2025-07-22 09:49,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-019401,2025-07-22 07:45,Seattle - Capitol Hill,WA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019402,2025-07-22 10:55,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019403,2025-07-22 14:54, portland - pearl,OR,Americano,Hot coffee,2,$3.50,$0.65,Mobile,No,4
+C-019404,2025-07-22 12:13,Portland - Pearl,OR,Espresso,Hot coffee,2,$3.00,$0.55,Mobile,No,
+C-019405,2025-07-22 10:33,Portland - Pearl,OR,Matcha Latte,Tea,4,$6.50,$1.55,Delivery,No,
+C-019406,2025-07-22 07:41,Portland - Pearl,OR,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019407,2025-07-22 08:36,San Francisco - Mission,CA,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019408,2025-07-22 17:57,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,3
+C-019409,2025-07-22 10:22,San Francisco - Mission,CA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-019410,2025-07-22 08:53,San Francisco - Mission,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019411,2025-07-22 07:58,Los Angeles - Silver Lake,CA,Croissant,Bakery,2,$3.75,$1.35,Mobile,No,
+C-019412,2025-07-22 15:06,Los Angeles - Silver Lake,CA,Chai Latte,Tea,2,$5.95,$1.25,Delivery,No,
+C-019413,2025-07-22 12:41,Los Angeles - Silver Lake,CA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019414,2025-07-22 08:24,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-019415,2025-07-22 08:26,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019416,2025-07-22 08:00,Austin - South Congress,TX,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,5
+C-019417,2025-07-22 08:16,Austin - South Congress,TX,Blueberry Muffin,Bakery,1,$4.50,$1.15,Delivery,No,3
+C-019418,2025-07-22 09:06,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019419,2025-07-22 17:11,Chicago - Loop,IL,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019420,2025-07-22 08:23,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019421,2025-07-22 08:19,New York - Tribeca,NY,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019422,2025-07-22 10:24,New York - Tribeca,NY,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,5
+C-019423,2025-07-22 08:08,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019424,2025-07-22 15:54,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019425,2025-07-22 13:35,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019426,2025-07-22 08:42,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019427,2025-07-22 09:53,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019428,2025-07-22 16:17,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019429,2025-07-22 09:56,Boston - Back Bay,MA,Croissant,Bakery,2,$3.75,$1.35,In-store,No,
+C-019430,2025-07-23 07:28,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019431,2025-07-23 09:59,Seattle - Pike St,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019432,2025-07-23 16:23,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019433,2025-07-23 12:07,Seattle - Pike St,WA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019434,2025-07-23 07:29,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019435,2025-07-23 17:30,Seattle - Capitol Hill,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019436,2025-07-23 09:11,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$6.50,$1.55,Delivery,No,
+C-019437,2025-07-23 08:51,Seattle - Capitol Hill,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019438,2025-07-23 08:08,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019439,2025-07-23 17:02,Portland - Pearl,OR,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-019440,2025-07-23 08:57,Portland - Pearl,OR,Chai Latte,Tea,1,$5.95,$1.25,Delivery,No,
+C-019441,2025-07-23 09:57,Portland - Pearl,OR,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019442,2025-07-23 16:57,San Francisco - Mission,CA,Americano,Hot coffee,1,$4.50,$0.65,,No,3
+C-019443,2025-07-23 12:09,San Francisco - Mission,CA,Iced Latte,Iced coffee,3,$5.25,$1.15,In-store,No,4
+C-019444,2025-07-23 06:49,San Francisco - Mission,CA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019445,2025-07-23 08:54,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019446,2025-07-23 08:48,San Francisco - Mission,CA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,5
+C-019447,2025-07-23 11:50,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019448,2025-07-23 16:22,Los Angeles - Silver Lake,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019449,2025-07-23 11:09,Los Angeles - Silver Lake,CA,Chai Latte,Tea,2,$4.95,$1.25,Mobile,No,
+C-019450,2025-07-23 16:54, austin - south congress,TX,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,5
+C-019451,2025-07-23 07:06,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019452,2025-07-23 13:03,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,,No,
+C-019453,2025-07-23 08:44,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,,No,
+C-019454,2025-07-23 10:27,Chicago - Loop,IL,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019455,2025-07-23 09:41,Chicago - Loop,IL,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019456,2025-07-23 09:04,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-019457,2025-07-23 19:08,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019458,2025-07-23 09:23,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$4.50,$1.15,Delivery,No,
+C-019459,2025-07-23 15:27,New York - Tribeca,NY,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019460,2025-07-23 08:59,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-019461,2025-07-23 19:41,Boston - Back Bay,MA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019462,2025-07-23 07:50,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$8.50,$3.05,Delivery,No,4
+C-019463,2025-07-23 08:48,Boston - Back Bay,MA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-019464,2025-07-23 08:40,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019465,2025-07-24 18:06,Seattle - Pike St,WA,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019466,2025-07-24 15:29,Seattle - Pike St,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019467,2025-07-24 09:26,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019468,2025-07-24 09:50,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019469,2025-07-24 18:39,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,
+C-019470,2025-07-24 08:36,Seattle - Capitol Hill,WA,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,
+C-019471,2025-07-24 16:08,Seattle - Capitol Hill,WA,Latte,Hot coffee,1,$5.75,$1.05,Delivery,No,
+C-019472,2025-07-24 12:25,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019473,2025-07-24 09:06,Portland - Pearl,OR,Latte,Hot coffee,2,$4.75,$1.05,In-store,No,
+C-019474,2025-07-24 13:08,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019475,2025-07-24 08:19,Portland - Pearl,OR,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019476,2025-07-24 16:41,San Francisco - Mission,CA,Iced Latte,Iced coffee,3,$5.25,$1.15,In-store,No,
+C-019477,2025-07-24 08:28,San Francisco - Mission,CA,Matcha Latte,Tea,2,$5.50,$1.55,In-store,No,
+C-019478,2025-07-24 08:19,San Francisco - Mission,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019479,2025-07-24 16:27,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019480,2025-07-24 10:09,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019481,2025-07-24 11:42,Los Angeles - Silver Lake,CA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019482,2025-07-24 12:31,Los Angeles - Silver Lake,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019483,2025-07-24 10:59,Los Angeles - Silver Lake,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019484,2025-07-24 07:04,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019485,2025-07-24 10:25,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,4
+C-019486,2025-07-24 12:49,Austin - South Congress,TX,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019487,2025-07-24 07:01,Austin - South Congress,TX,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019488,2025-07-24 07:28,Austin - South Congress,TX,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019489,2025-07-24 10:21,Chicago - Loop,IL,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019490,2025-07-24 13:31,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019491,2025-07-24 17:34,Chicago - Loop,IL,Blueberry Muffin,Bakery,2,$3.50,$1.15,In-store,No,
+C-019492,2025-07-24 06:27,Chicago - Loop,IL,Croissant,Bakery,1,$3.75,$1.35,In-store,No,5
+C-019493,2025-07-24 11:29,New York - Tribeca,NY,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019494,2025-07-24 07:16, new york - tribeca,NY,Latte,Hot coffee,1,$5.75,$1.05,Delivery,No,
+C-019495,2025-07-24 11:24,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019496,2025-07-24 07:34,New York - Tribeca,NY,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019497,2025-07-24 08:05,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019498,2025-07-24 16:57,New York - Tribeca,NY,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019499,2025-07-24 08:09,Boston - Back Bay,MA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019500,2025-07-24 10:23, boston - back bay,MA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,5
+C-019501,2025-07-24 09:30,Boston - Back Bay,MA,Espresso,Hot coffee,2,$3.00,$0.55,Mobile,No,
+C-019502,2025-07-25 14:22,Seattle - Pike St,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,,No,
+C-019503,2025-07-25 10:58,Seattle - Pike St,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019504,2025-07-25 09:34,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019505,2025-07-25 13:36,Seattle - Pike St,WA,Americano,Hot coffee,1,$4.50,$0.65,Delivery,No,3
+C-019506,2025-07-25 09:09,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019507,2025-07-25 18:26,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019508,2025-07-25 14:19,Seattle - Capitol Hill,WA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019509,2025-07-25 16:23,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019509,2025-07-25 16:23,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019510,2025-07-25 12:10,Portland - Pearl,OR,Breakfast Sandwich,Food,3,$7.50,$3.05,In-store,No,
+C-019511,2025-07-25 12:33,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019512,2025-07-25 08:05,Portland - Pearl,OR,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019513,2025-07-25 08:33,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019514,2025-07-25 08:20, san francisco - mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019515,2025-07-25 09:34,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019516,2025-07-25 09:27,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019517,2025-07-25 12:12,San Francisco - Mission,CA,Chai Latte,Tea,2,$4.95,$1.25,In-store,No,
+C-019518,2025-07-25 16:05,Los Angeles - Silver Lake,CA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019519,2025-07-25 15:20,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019520,2025-07-25 08:41,Los Angeles - Silver Lake,CA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019521,2025-07-25 10:43,Los Angeles - Silver Lake,CA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019522,2025-07-25 09:03,Austin - South Congress,TX,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019523,2025-07-25 12:25,Austin - South Congress,TX,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019524,2025-07-25 16:40,Austin - South Congress,TX,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019525,2025-07-25 07:46,Chicago - Loop,IL,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019526,2025-07-25 12:46,Chicago - Loop,IL,Blueberry Muffin,Bakery,1,$4.50,$1.15,Delivery,No,
+C-019527,2025-07-25 16:16,Chicago - Loop,IL,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-019528,2025-07-25 12:36,Chicago - Loop,IL,Espresso,Hot coffee,2,$3.00,$0.55,Mobile,No,3
+C-019529,2025-07-25 11:30,New York - Tribeca,NY,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019530,2025-07-25 09:10,New York - Tribeca,NY,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019531,2025-07-25 11:08,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-019532,2025-07-25 12:43,New York - Tribeca,NY,Breakfast Sandwich,Food,2,$8.50,$3.05,Delivery,No,
+C-019533,2025-07-25 06:17,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,5
+C-019534,2025-07-25 08:17,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019535,2025-07-26 11:16,Seattle - Pike St,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019536,2025-07-26 08:27,Seattle - Pike St,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019537,2025-07-26 16:56,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019538,2025-07-26 08:20,Seattle - Pike St,WA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,4
+C-019539,2025-07-26 08:28,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019540,2025-07-26 09:19,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,2,$6.25,$1.15,Delivery,No,
+C-019541,2025-07-26 09:44,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019542,2025-07-26 13:35,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,5
+C-019543,2025-07-26 09:52,Seattle - Capitol Hill,WA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,4
+C-019544,2025-07-26 09:46,Seattle - Capitol Hill,WA,Chai Latte,Tea,2,$4.95,$1.25,Mobile,No,5
+C-019545,2025-07-26 13:08,Portland - Pearl,OR,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,4
+C-019546,2025-07-26 09:28,Portland - Pearl,OR,Blueberry Muffin,Bakery,1,$3.50,$1.15,Mobile,No,
+C-019547,2025-07-26 07:44,Portland - Pearl,OR,Iced Latte,Iced coffee,4,$5.25,$1.15,,No,
+C-019548,2025-07-26 18:29,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019549,2025-07-26 13:44,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019550,2025-07-26 07:25,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019551,2025-07-26 12:31,San Francisco - Mission,CA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,4
+C-019552,2025-07-26 13:38,San Francisco - Mission,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019553,2025-07-26 12:33,Los Angeles - Silver Lake,CA,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,5
+C-019554,2025-07-26 14:00,Los Angeles - Silver Lake,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019555,2025-07-26 06:07, los angeles - silver lake,CA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,4
+C-019556,2025-07-26 09:09,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019557,2025-07-26 09:03,Austin - South Congress,TX,Latte,Hot coffee,1,$5.75,$1.05,Delivery,No,4
+C-019558,2025-07-26 18:48,Austin - South Congress,TX,Matcha Latte,Tea,2,$5.50,$1.55,Mobile,No,
+C-019559,2025-07-26 11:25,Chicago - Loop,IL,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019560,2025-07-26 12:40,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019561,2025-07-26 12:35,Chicago - Loop,IL,Matcha Latte,Tea,2,$5.50,$1.55,Mobile,No,
+C-019562,2025-07-26 18:00,Chicago - Loop,IL,Americano,Hot coffee,4,$3.50,$0.65,In-store,No,5
+C-019563,2025-07-26 08:36,New York - Tribeca,NY,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019564,2025-07-26 06:31,New York - Tribeca,NY,Cold Brew,Iced coffee,2,$4.95,$0.85,,No,
+C-019565,2025-07-26 12:32,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,5
+C-019566,2025-07-26 08:17,New York - Tribeca,NY,Breakfast Sandwich,Food,3,$7.50,$3.05,In-store,No,
+C-019567,2025-07-26 10:23,New York - Tribeca,NY,Chai Latte,Tea,3,$4.95,$1.25,In-store,No,5
+C-019568,2025-07-26 11:53,New York - Tribeca,NY,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019569,2025-07-26 09:32,Boston - Back Bay,MA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,5
+C-019570,2025-07-26 08:34,Boston - Back Bay,MA,Matcha Latte,Tea,3,$5.50,$1.55,Mobile,No,
+C-019571,2025-07-26 12:15,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019572,2025-07-26 10:13,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,5
+C-019573,2025-07-27 06:04,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019574,2025-07-27 17:57,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$5.95,$0.85,Delivery,No,
+C-019575,2025-07-27 12:46,Seattle - Pike St,WA,Matcha Latte,Tea,1,$6.50,$1.55,Delivery,No,4
+C-019576,2025-07-27 07:40,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,5
+C-019577,2025-07-27 10:19,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019578,2025-07-27 17:18,Seattle - Capitol Hill,WA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019579,2025-07-27 08:06,Seattle - Capitol Hill,WA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019580,2025-07-27 11:38,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019581,2025-07-27 06:51,Seattle - Capitol Hill,WA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-019582,2025-07-27 14:39,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019583,2025-07-27 17:40,Portland - Pearl,OR,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019584,2025-07-27 12:55,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019585,2025-07-27 10:34,Portland - Pearl,OR,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,5
+C-019586,2025-07-27 12:35,San Francisco - Mission,CA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,4
+C-019587,2025-07-27 10:22,San Francisco - Mission,CA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019588,2025-07-27 13:23,San Francisco - Mission,CA,Blueberry Muffin,Bakery,2,$3.50,$1.15,Mobile,No,
+C-019589,2025-07-27 10:26,San Francisco - Mission,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019590,2025-07-27 12:28,Los Angeles - Silver Lake,CA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-019591,2025-07-27 13:11,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,3,$5.25,$1.15,In-store,No,4
+C-019592,2025-07-27 10:41,Los Angeles - Silver Lake,CA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019593,2025-07-27 07:46,Los Angeles - Silver Lake,CA,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019594,2025-07-27 14:46,Los Angeles - Silver Lake,CA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019595,2025-07-27 09:54,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019596,2025-07-27 11:46,Austin - South Congress,TX,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019597,2025-07-27 12:43,Austin - South Congress,TX,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,4
+C-019598,2025-07-27 18:51,Chicago - Loop,IL,Croissant,Bakery,1,$3.75,$1.35,In-store,No,4
+C-019599,2025-07-27 09:02,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,4
+C-019600,2025-07-27 12:33,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019601,2025-07-27 19:50,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,4
+C-019602,2025-07-27 08:36,Chicago - Loop,IL,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019603,2025-07-27 10:03,New York - Tribeca,NY,Blueberry Muffin,Bakery,2,$3.50,$1.15,Mobile,No,
+C-019604,2025-07-27 14:14,New York - Tribeca,NY,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-019605,2025-07-27 12:34,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019606,2025-07-27 16:27,New York - Tribeca,NY,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019607,2025-07-27 11:00,New York - Tribeca,NY,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019608,2025-07-27 09:43,New York - Tribeca,NY,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019609,2025-07-27 13:12,New York - Tribeca,NY,Matcha Latte,Tea,1,$5.50,$1.55,,No,
+C-019610,2025-07-27 07:34,Boston - Back Bay,MA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019611,2025-07-27 13:02,Boston - Back Bay,MA,Chai Latte,Tea,1,$4.95,$1.25,Mobile,No,
+C-019612,2025-07-27 08:15,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,3
+C-019613,2025-07-27 08:26,Boston - Back Bay,MA,Cold Brew,Iced coffee,2,$4.95,$0.85,Mobile,No,
+C-019614,2025-07-28 06:28,Seattle - Pike St,WA,Cold Brew,Iced coffee,2,$5.95,$0.85,Delivery,No,
+C-019615,2025-07-28 09:54,Seattle - Pike St,WA,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019616,2025-07-28 17:02,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019617,2025-07-28 13:02,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019618,2025-07-28 08:56,Seattle - Pike St,WA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019619,2025-07-28 13:19,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,5
+C-019620,2025-07-28 08:45,Seattle - Capitol Hill,WA,Croissant,Bakery,2,$4.75,$1.35,Delivery,No,
+C-019621,2025-07-28 10:02,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019622,2025-07-28 15:23,Seattle - Capitol Hill,WA,Cappuccino,Hot coffee,2,$5.50,$0.95,Delivery,No,
+C-019623,2025-07-28 07:56,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019624,2025-07-28 16:25,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,5
+C-019625,2025-07-28 09:59,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019626,2025-07-28 07:46,San Francisco - Mission,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019627,2025-07-28 17:43,San Francisco - Mission,CA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019628,2025-07-28 13:53, san francisco - mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019629,2025-07-28 14:07,San Francisco - Mission,CA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019630,2025-07-28 12:21,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,3
+C-019631,2025-07-28 11:55,Los Angeles - Silver Lake,CA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019632,2025-07-28 07:17,Los Angeles - Silver Lake,CA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019633,2025-07-28 16:31,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,3,$5.25,$1.15,In-store,No,4
+C-019634,2025-07-28 17:29,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019635,2025-07-28 13:15,Austin - South Congress,TX,Matcha Latte,Tea,1,$5.50,$1.55,In-store,No,
+C-019636,2025-07-28 11:46,Austin - South Congress,TX,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019637,2025-07-28 15:54,Chicago - Loop,IL,Matcha Latte,Tea,2,$5.50,$1.55,Mobile,No,4
+C-019638,2025-07-28 18:26,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019639,2025-07-28 17:39,Chicago - Loop,IL,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019640,2025-07-28 06:20,Chicago - Loop,IL,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,4
+C-019641,2025-07-28 09:02,Chicago - Loop,IL,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019642,2025-07-28 16:19,New York - Tribeca,NY,Croissant,Bakery,2,$3.75,$1.35,Mobile,No,
+C-019643,2025-07-28 07:15,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019644,2025-07-28 17:14,New York - Tribeca,NY,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019645,2025-07-28 08:43,New York - Tribeca,NY,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,5
+C-019646,2025-07-28 12:13,New York - Tribeca,NY,Cappuccino,Hot coffee,2,$5.50,$0.95,Delivery,No,
+C-019647,2025-07-28 12:13,Boston - Back Bay,MA,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,5
+C-019648,2025-07-28 07:54,Boston - Back Bay,MA,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,
+C-019649,2025-07-28 13:37,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,5
+C-019650,2025-07-28 16:55,Boston - Back Bay,MA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,5
+C-019651,2025-07-29 07:14,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019652,2025-07-29 07:07,Seattle - Pike St,WA,Americano,Hot coffee,2,$3.50,$0.65,In-store,No,
+C-019653,2025-07-29 11:05,Seattle - Pike St,WA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,
+C-019654,2025-07-29 16:32,Seattle - Pike St,WA,Breakfast Sandwich,Food,2,$7.50,$3.05,Mobile,No,4
+C-019655,2025-07-29 06:03,Seattle - Capitol Hill,WA,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019656,2025-07-29 19:28,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019657,2025-07-29 06:25,Seattle - Capitol Hill,WA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,5
+C-019658,2025-07-29 16:46,Portland - Pearl,OR,Espresso,Hot coffee,4,$4.00,$0.55,Delivery,No,
+C-019658,2025-07-29 16:46,Portland - Pearl,OR,Espresso,Hot coffee,4,$4.00,$0.55,Delivery,No,
+C-019659,2025-07-29 07:17,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,3
+C-019660,2025-07-29 08:01,Portland - Pearl,OR,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019661,2025-07-29 14:39,San Francisco - Mission,CA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-019662,2025-07-29 12:09,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019663,2025-07-29 08:20,San Francisco - Mission,CA,Espresso,Hot coffee,3,$3.00,$0.55,Mobile,No,
+C-019664,2025-07-29 12:36,San Francisco - Mission,CA,Cold Brew,Iced coffee,4,$4.95,$0.85,Mobile,No,3
+C-019665,2025-07-29 15:36,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$5.95,$0.85,Delivery,No,4
+C-019666,2025-07-29 08:39,Los Angeles - Silver Lake,CA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019666,2025-07-29 08:39,Los Angeles - Silver Lake,CA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019667,2025-07-29 09:17,Los Angeles - Silver Lake,CA,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,4
+C-019668,2025-07-29 08:52,Los Angeles - Silver Lake,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019669,2025-07-29 10:27,Los Angeles - Silver Lake,CA,Blueberry Muffin,Bakery,3,$3.50,$1.15,In-store,No,
+C-019670,2025-07-29 12:41,Austin - South Congress,TX,Cold Brew,Iced coffee,2,$5.95,$0.85,Delivery,No,
+C-019671,2025-07-29 08:08,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019672,2025-07-29 15:20,Chicago - Loop,IL,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019673,2025-07-29 09:20,Chicago - Loop,IL,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019674,2025-07-29 12:45,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,3
+C-019675,2025-07-29 17:42,Chicago - Loop,IL,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019676,2025-07-29 12:39,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019677,2025-07-29 08:35,New York - Tribeca,NY,Cappuccino,Hot coffee,3,$4.50,$0.95,In-store,No,
+C-019678,2025-07-29 07:02,New York - Tribeca,NY,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019679,2025-07-29 14:15,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,,No,5
+C-019680,2025-07-29 16:13,Boston - Back Bay,MA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-019681,2025-07-29 14:57,Boston - Back Bay,MA,Americano,Hot coffee,1,$3.50,$0.65,,No,
+C-019682,2025-07-29 13:54,Boston - Back Bay,MA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019683,2025-07-29 06:18,Boston - Back Bay,MA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019684,2025-07-30 06:06,Seattle - Pike St,WA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019685,2025-07-30 09:48,Seattle - Pike St,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,4
+C-019686,2025-07-30 10:24,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019687,2025-07-30 08:27,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019688,2025-07-30 07:50,Seattle - Capitol Hill,WA,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019689,2025-07-30 10:18,Seattle - Capitol Hill,WA,Blueberry Muffin,Bakery,1,$3.50,$1.15,In-store,No,
+C-019690,2025-07-30 09:17,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$8.50,$3.05,Delivery,No,
+C-019691,2025-07-30 08:45,Portland - Pearl,OR,Breakfast Sandwich,Food,2,$7.50,$3.05,In-store,No,
+C-019692,2025-07-30 09:32,Portland - Pearl,OR,Matcha Latte,Tea,4,$5.50,$1.55,In-store,No,
+C-019693,2025-07-30 08:54,Portland - Pearl,OR,Cold Brew,Iced coffee,2,$4.95,$0.85,In-store,No,
+C-019694,2025-07-30 08:40,Portland - Pearl,OR,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019695,2025-07-30 12:06,San Francisco - Mission,CA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019696,2025-07-30 07:23,San Francisco - Mission,CA,Espresso,Hot coffee,2,$4.00,$0.55,Delivery,No,4
+C-019697,2025-07-30 14:49,San Francisco - Mission,CA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019698,2025-07-30 10:12,San Francisco - Mission,CA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019699,2025-07-30 09:16,Los Angeles - Silver Lake,CA,Matcha Latte,Tea,1,$5.50,$1.55,Mobile,No,4
+C-019700,2025-07-30 07:55,Los Angeles - Silver Lake,CA,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,5
+C-019701,2025-07-30 14:26,Los Angeles - Silver Lake,CA,Chai Latte,Tea,1,$4.95,$1.25,In-store,No,
+C-019702,2025-07-30 06:07,Austin - South Congress,TX,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019703,2025-07-30 14:04,Austin - South Congress,TX,Americano,Hot coffee,1,$3.50,$0.65,Mobile,No,
+C-019704,2025-07-30 14:41,Austin - South Congress,TX,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,5
+C-019705,2025-07-30 12:24,Chicago - Loop,IL,Cappuccino,Hot coffee,1,$5.50,$0.95,Delivery,No,
+C-019706,2025-07-30 11:13,Chicago - Loop,IL,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,5
+C-019707,2025-07-30 14:26,Chicago - Loop,IL,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,
+C-019708,2025-07-30 15:02,Chicago - Loop,IL,Americano,Hot coffee,1,$3.50,$0.65,,No,
+C-019709,2025-07-30 10:37,New York - Tribeca,NY,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019710,2025-07-30 09:16,New York - Tribeca,NY,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,5
+C-019711,2025-07-30 08:54,NEW YORK - TRIBECA ,NY,Cold Brew,Iced coffee,3,$4.95,$0.85,In-store,No,
+C-019712,2025-07-30 07:25,New York - Tribeca,NY,Latte,Hot coffee,1,$4.75,$1.05,Mobile,No,3
+C-019713,2025-07-30 12:21,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019714,2025-07-30 10:11,Boston - Back Bay,MA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,4
+C-019715,2025-07-30 08:58,Boston - Back Bay,MA,Americano,Hot coffee,1,$3.50,$0.65,In-store,No,
+C-019716,2025-07-31 08:05,Seattle - Pike St,WA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019716,2025-07-31 08:05,Seattle - Pike St,WA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019717,2025-07-31 15:39,Seattle - Pike St,WA,Latte,Hot coffee,4,$4.75,$1.05,In-store,No,
+C-019718,2025-07-31 09:49,Seattle - Pike St,WA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019719,2025-07-31 08:41,Seattle - Pike St,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019720,2025-07-31 06:46,Seattle - Capitol Hill,WA,Breakfast Sandwich,Food,1,$7.50,$3.05,Mobile,No,
+C-019721,2025-07-31 12:41,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019722,2025-07-31 15:53,Seattle - Capitol Hill,WA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,4
+C-019723,2025-07-31 11:14,Portland - Pearl,OR,Espresso,Hot coffee,1,$3.00,$0.55,Mobile,No,
+C-019724,2025-07-31 07:02,Portland - Pearl,OR,Latte,Hot coffee,1,$4.75,$1.05,In-store,No,5
+C-019725,2025-07-31 10:32,Portland - Pearl,OR,Cold Brew,Iced coffee,3,$4.95,$0.85,Mobile,No,
+C-019726,2025-07-31 08:58,Portland - Pearl,OR,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,
+C-019727,2025-07-31 19:10,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,In-store,No,
+C-019728,2025-07-31 10:43,San Francisco - Mission,CA,Cold Brew,Iced coffee,1,$4.95,$0.85,Mobile,No,
+C-019729,2025-07-31 08:21,San Francisco - Mission,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,
+C-019730,2025-07-31 07:24,San Francisco - Mission,CA,Cappuccino,Hot coffee,1,$4.50,$0.95,In-store,No,
+C-019731,2025-07-31 11:21,San Francisco - Mission,CA,Croissant,Bakery,1,$3.75,$1.35,In-store,No,
+C-019732,2025-07-31 10:31,Los Angeles - Silver Lake,CA,Latte,Hot coffee,3,$4.75,$1.05,In-store,No,3
+C-019733,2025-07-31 07:01,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,4
+C-019734,2025-07-31 18:08,Los Angeles - Silver Lake,CA,Croissant,Bakery,3,$3.75,$1.35,Mobile,No,4
+C-019735,2025-07-31 07:19,Los Angeles - Silver Lake,CA,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019736,2025-07-31 06:12,Austin - South Congress  ,TX,Croissant,Bakery,2,$3.75,$1.35,Mobile,No,
+C-019737,2025-07-31 10:57,Austin - South Congress,TX,Iced Latte,Iced coffee,1,$5.25,$1.15,Mobile,No,5
+C-019738,2025-07-31 18:08,Chicago - Loop,IL,Espresso,Hot coffee,2,$3.00,$0.55,In-store,No,
+C-019739,2025-07-31 10:36,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019740,2025-07-31 13:20,Chicago - Loop,IL,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,5
+C-019741,2025-07-31 08:10,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$5.25,$1.15,In-store,No,
+C-019742,2025-07-31 10:50,New York - Tribeca,NY,Chai Latte,Tea,1,$4.95,$1.25,,No,3
+C-019743,2025-07-31 08:15,New York - Tribeca,NY,Cappuccino,Hot coffee,1,$4.50,$0.95,Mobile,No,
+C-019744,2025-07-31 07:21,New York - Tribeca,NY,Iced Latte,Iced coffee,2,$5.25,$1.15,Mobile,No,
+C-019745,2025-07-31 12:05,New York - Tribeca,NY,Matcha Latte,Tea,2,$5.50,$1.55,Mobile,No,
+C-019746,2025-07-31 10:39,New York - Tribeca,NY,Iced Latte,Iced coffee,1,$6.25,$1.15,Delivery,No,
+C-019747,2025-07-31 17:15,Boston - Back Bay,MA,Iced Latte,Iced coffee,2,$5.25,$1.15,In-store,No,
+C-019748,2025-07-31 09:50,Boston - Back Bay,MA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019748,2025-07-31 09:50,Boston - Back Bay,MA,Espresso,Hot coffee,1,$3.00,$0.55,In-store,No,
+C-019749,2025-07-31 16:09,Boston - Back Bay,MA,Breakfast Sandwich,Food,1,$7.50,$3.05,In-store,No,5
+C-019750,2025-07-31 13:08,Boston - Back Bay,MA,Croissant,Bakery,1,$3.75,$1.35,Mobile,No,4

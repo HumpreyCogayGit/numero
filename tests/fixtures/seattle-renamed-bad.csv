@@ -1,0 +1,5 @@
+date,precipitation,max_temp,temp_min,wind,weather
+2016-01-01,0.0,TBD,2.0,3.0,sun
+2016-01-02,0.0,TBD,1.0,2.0,sun
+2016-01-03,0.0,n.a.,1.0,2.0,rain
+2016-01-04,0.0,8.0,1.0,2.0,sun

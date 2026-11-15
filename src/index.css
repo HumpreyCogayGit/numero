@@ -1,0 +1,164 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+/* ---------- design tokens ---------- */
+:root {
+  color-scheme: light;
+  --page: #f4f4f1;
+  --surface: #fcfcfb;
+  --surface-2: #f6f6f3;
+  --surface-3: #eeede8;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --ink-3: #6a6863;
+  --line: #e6e5df;
+  --line-strong: #d6d5cd;
+  --accent: #2a78d6;
+  /* filled controls with white text: a step darker than the accent for 4.5:1 contrast */
+  --accent-fill: #2a6fc9;
+  --accent-ink: #1c5cab;
+  --accent-soft: #e8f1fc;
+  --good: #006300;
+  --bad: #c43535;
+  --shadow: 0 1px 2px rgba(16, 16, 12, .04), 0 1px 1px rgba(16, 16, 12, .03);
+  --shadow-lg: 0 18px 50px -12px rgba(16, 16, 12, .22), 0 4px 12px rgba(16, 16, 12, .06);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0f0f0e;
+    --surface: #1a1a19;
+    --surface-2: #212120;
+    --surface-3: #2a2a28;
+    --ink: #f0efec;
+    --ink-2: #c3c2b7;
+    --ink-3: #9a988f;
+    --line: #2c2c2a;
+    --line-strong: #3a3a37;
+    --accent: #3987e5;
+    --accent-fill: #2a6fc9;
+    --accent-ink: #86b6ef;
+    --accent-soft: #17273b;
+    --good: #0ca30c;
+    --bad: #e66767;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+    --shadow-lg: 0 18px 50px -12px rgba(0, 0, 0, .7);
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0f0f0e;
+  --surface: #1a1a19;
+  --surface-2: #212120;
+  --surface-3: #2a2a28;
+  --ink: #f0efec;
+  --ink-2: #c3c2b7;
+  --ink-3: #9a988f;
+  --line: #2c2c2a;
+  --line-strong: #3a3a37;
+  --accent: #3987e5;
+  --accent-fill: #2a6fc9;
+  --accent-ink: #86b6ef;
+  --accent-soft: #17273b;
+  --good: #0ca30c;
+  --bad: #e66767;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+  --shadow-lg: 0 18px 50px -12px rgba(0, 0, 0, .7);
+}
+
+@theme inline {
+  --color-page: var(--page);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-ink: var(--ink);
+  --color-ink-2: var(--ink-2);
+  --color-ink-3: var(--ink-3);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-accent-fill: var(--accent-fill);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-soft: var(--accent-soft);
+  --color-good: var(--good);
+  --color-bad: var(--bad);
+  /* the system's own interface font: nothing is fetched from another site */
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --shadow-card: var(--shadow);
+  --shadow-pop: var(--shadow-lg);
+}
+
+html, body, #root { height: 100%; }
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.tabular { font-variant-numeric: tabular-nums; }
+
+/* thin, quiet scrollbars */
+* { scrollbar-width: thin; scrollbar-color: var(--line-strong) transparent; }
+
+/* component classes live in the components layer so utilities (pl-8, h-8…) can override them */
+@layer components {
+.field {
+  @apply h-9 w-full rounded-lg border border-line bg-surface px-3 text-sm text-ink outline-none transition;
+}
+.field:focus { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 18%, transparent); }
+select.field {
+  appearance: none;
+  padding-right: 2rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%23898781' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right .7rem center;
+}
+
+.card {
+  @apply rounded-2xl border border-line bg-surface shadow-card;
+}
+
+}
+
+@keyframes fade-up { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.fade-up { animation: fade-up .35s cubic-bezier(.2, .7, .2, 1) both; }
+@keyframes indeterminate { from { transform: translateX(-100%); } to { transform: translateX(300%); } }
+.indeterminate { animation: indeterminate 1.2s ease-in-out infinite; }
+@keyframes slide-in { from { transform: translateX(24px); opacity: 0; } to { transform: none; opacity: 1; } }
+.slide-in { animation: slide-in .25s cubic-bezier(.2, .7, .2, 1) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-up, .slide-in { animation: none; }
+}
+
+/* print / save as PDF: the dashboard only, on white */
+/* the print report lays widgets out by their own width, not the viewport's breakpoints (paper is narrow) */
+.print-report [data-size="xs"] { grid-column: span 3 / span 3; }
+.print-report [data-size="sm"] { grid-column: span 4 / span 4; }
+.print-report [data-size="md"] { grid-column: span 6 / span 6; }
+.print-report [data-size="lg"] { grid-column: span 8 / span 8; }
+.print-report [data-size="full"] { grid-column: span 12 / span 12; }
+
+@media print {
+  /* paper is always light, whatever the screen theme (the id in :not() lifts this above the dark-theme rules) */
+  :root:not(#_) {
+    color-scheme: light; --page: #fff; --surface: #fff; --surface-2: #f6f6f3; --surface-3: #eeede8;
+    --ink: #0b0b0b; --ink-2: #52514e; --ink-3: #6a6863; --line: #e6e5df; --line-strong: #d6d5cd;
+    --accent: #2a78d6; --accent-fill: #2a6fc9; --accent-ink: #1c5cab; --accent-soft: #e8f1fc; --good: #006300; --bad: #c43535;
+  }
+  /* the report (Share → Print report) replaces the app on paper */
+  body.printing-report > *:not(.print-report) { display: none !important; }
+  body.printing-report .print-report { position: static !important; overflow: visible !important; }
+  .report-sheet { break-before: page; }
+  .report-sheet:first-child { break-before: auto; }
+  @page { size: A4 landscape; margin: 10mm; }
+  aside, .no-print, [role="tablist"], header button, .lg\:hidden { display: none !important; }
+  main { overflow: visible !important; }
+  html, body, #root { height: auto; background: #fff; }
+  .card { break-inside: avoid; box-shadow: none !important; }
+  .fade-up { animation: none !important; }
+}
