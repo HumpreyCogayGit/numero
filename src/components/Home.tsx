@@ -56,6 +56,7 @@ export function Home() {
   return (
     <div className="mx-auto max-w-6xl px-4 pb-16 pt-8 sm:px-8 sm:pt-14">
       <section className="fade-up text-center">
+        <h1 className="sr-only">Numero — Instant analytics</h1>
         <p className="mx-auto max-w-xl text-[15px] leading-relaxed text-ink-2">
           Numero reads CSV, JSON and Excel files, detects dates, numbers and categories, and builds charts, summaries and statistical insights you can shape to your needs.
         </p>
